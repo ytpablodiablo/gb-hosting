@@ -1,0 +1,3 @@
+<?php	require_once($_SERVER['DOCUMENT_ROOT'].'/core/class/class.alert_msg.php');	require_once($_SERVER['DOCUMENT_ROOT'].'/core/class/class.discord_server.php');	require_once($_SERVER['DOCUMENT_ROOT'].'/core/class/class.fnc.php');	require_once($_SERVER['DOCUMENT_ROOT'].'/core/class/class.pagination.php');
+	require_once($_SERVER['DOCUMENT_ROOT'].'/core/class/class.secure.php');	require_once($_SERVER['DOCUMENT_ROOT'].'/core/class/class.server.php');	require_once($_SERVER['DOCUMENT_ROOT'].'/core/class/class.site_settings.php');
+?>

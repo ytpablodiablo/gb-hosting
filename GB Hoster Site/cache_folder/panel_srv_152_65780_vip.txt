@@ -1,0 +1,29 @@
+html>
+<head>
+<style type="text/css">
+body	{
+	background-color: #000000;
+	font-family:Verdana,Tahoma;
+		}
+</style>
+	<meta http-equiv="Content-Type" content="text/html; charset=windows-1257">
+</head>
+<font size="2" color="#e0a518"><b><center>Sta dobijas kao VIP?</center></b></font><br />
+<font size="1" color="#c0c0ff">
+<UL>
+<LI TYPE=square>Besplatna HE granata svaku rundu.</LI><br>
+<LI TYPE=square>Besplatan Armor i Helm</LI><br>
+<LI TYPE=square>Mozes da vidis DMG metka.</LI><br>
+<LI TYPE=square>Vraca ti se 5HP-a po kill-u i 10HP-a po headshoot kill-u.</LI><br>
+<LI TYPE=square>Dobijas bonus 200$ po ubistvu i bonus 400$ po headshoot-u.</LI><br>
+<LI TYPE=square>Dobijas besplatan slot na serveru.</LI><br>
+<LI TYPE=square>Ostvarujes mogucnost zastite svog nick-a zeljenim passwordom.</LI><br>
+<LI TYPE=square>Dobijas stalnu sobu na ts3 serveru.</UL><br>
+<LI TYPE=square>Posetite forum: www.titan-cs.net</UL><br>
+<LI TYPE=square>Posetite teamspeak3 server: titan-ts3</UL><br>
+<font size="1" color=#00c000><strong>Cena VIP-a?</strong></font><br>
+VIP cena: 1 Boost.<br>
+VIP contact: <font color=#FF6600>White Fang</font><br><br />
+<font size="2" color="#ffffff"><strong>DOBRODOSLI NA TITAN COMMUNITY!</strong></font><br />
+</body>
+</html>

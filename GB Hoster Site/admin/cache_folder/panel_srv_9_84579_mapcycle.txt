@@ -1,0 +1,5 @@
+de_dust2
+de_inferno
+cs_assault
+de_nuke
+de_westwood

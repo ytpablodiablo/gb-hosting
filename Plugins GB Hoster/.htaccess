@@ -1,0 +1,9 @@
+RewriteEngine on
+
+RewriteRule ^plugin/(.*)$					"/plugin.php?plugin=$1"
+RewriteRule ^user/(.*)$					"/user.php?username=$1"
+RewriteRule ^tiket/(.*)$				"/tiket.php?tiket=$1"
+php_value date.timezone 'Europe/Belgrade'
+
+
+

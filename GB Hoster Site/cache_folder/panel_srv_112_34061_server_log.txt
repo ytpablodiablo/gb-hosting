@@ -1,0 +1,39 @@
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:09:14] 
+[23:09:14] Server Plugins
+[23:09:14] --------------
+[23:09:14]  Loading plugin: sscanf
+[23:09:14]   Failed (plugins/sscanf: cannot open shared object file: No such file or directory)
+[23:09:14]  Loading plugin: crashdetect
+[23:09:14]   Failed (plugins/crashdetect: cannot open shared object file: No such file or directory)
+[23:09:14]  Loading plugin: streamer
+[23:09:14]   Failed (plugins/streamer: cannot open shared object file: No such file or directory)
+[23:09:14]  Loading plugin: MapAndreas
+[23:09:14]   Failed (plugins/MapAndreas: cannot open shared object file: No such file or directory)
+[23:09:14]  Loaded 0 plugins.
+
+[23:09:14] I couldn't load any gamemode scripts. Please verify your server.cfg
+[23:09:14] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:11:03] 
+[23:11:03] Server Plugins
+[23:11:03] --------------
+[23:11:03]  Loaded 0 plugins.
+
+[23:11:03] I couldn't load any gamemode scripts. Please verify your server.cfg
+[23:11:03] It needs a gamemode0 line at the very least.

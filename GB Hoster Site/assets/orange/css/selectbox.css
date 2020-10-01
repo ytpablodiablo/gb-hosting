@@ -1,0 +1,343 @@
+@CHARSET "UTF-8";
+.sbHolder{
+	background: url("../img/inputs.png") 0 -270px;	
+	width: 262px;
+	height: 30px;
+	border: 1px solid #000;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 500;
+	font-style: normal;
+	font-size: 12px;
+	color: #FFF;
+	outline: none;
+	padding-left: 30px;
+	position: relative;
+	border-bottom: 0;
+	
+	-webkit-transition: background 0.2s;
+	-moz-transition: background 0.2s;
+	-o-transition: background 0.2s;
+	transition: background 0.2s;		
+}
+
+[class^="s-"]{
+	width: 262px;
+	height: 30px;
+	border: 1px solid #000;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 500;
+	font-style: normal;
+	font-size: 12px;
+	color: #FFF;
+	outline: none;
+	padding-left: 30px;
+	position: relative;
+	border-bottom: 0;
+	
+	-webkit-transition: background 0.2s;
+	-moz-transition: background 0.2s;
+	-o-transition: background 0.2s;
+	transition: background 0.2s;		
+}
+
+[class^="x-"]{
+	width: 282ph;
+	height: 30px;
+	border: 1px solid #000;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 500;
+	font-style: normal;
+	font-size: 12px;
+	color: #FFF;
+	outline: none;
+	padding-left: 30px;
+	position: relative;
+	border-bottom: 0;
+	margin-top: 0px;
+	
+	-webkit-transition: background 0.2s;
+	-moz-transition: background 0.2s;
+	-o-transition: background 0.2s;
+	transition: background 0.2s;		
+}
+
+.s-igra{
+	background: url("../img/inputs.png") 0 -270px;	
+}
+.s-lok{
+	background: url("../img/inputs.png") 0 0px;	
+}
+.lokk{
+	background: url("../img/inputs.png") 0 0px;	
+	width: 282ph;
+	height: 30px;
+	border: 1px solid #000;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 500;
+	font-style: normal;
+	font-size: 12px;
+	color: #FFF;
+	outline: none;
+	padding-left: 30px;
+	position: relative;
+	border-bottom: 0;
+	margin-top: 10px;
+}
+
+.x-lok{
+	background: url("../img/inputs.png") 0 0px;
+	max-width: 303px;
+}
+
+.x-slot{
+	background: url("../img/inputs.png") 0 -240px;
+}
+
+.x-mesec{
+	background: url("../img/inputs.png") 0 -180px;
+}
+
+.x-mod{
+	background: url("../img/inputs.png") 0 -150px;
+}
+
+.x-igra{
+	background: url("../img/inputs.png") 0 -270px;
+}
+
+.s-slot{
+	background: url("../img/inputs.png") 0 -240px;	
+}
+.s-mesec{
+	background: url("../img/inputs.png") 0 -180px;	
+}
+.s-mod{
+	background: url("../img/inputs.png") 0 -150px;	
+}
+
+
+.x-slot:focus{
+	background: url("../img/inputs-focus.png") 0 -240px;
+	width: 282ph;
+	height: 30px;
+	border: 1px solid #000;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 500;
+	font-style: normal;
+	font-size: 12px;
+	color: #FFF;
+	outline: none;
+	padding-left: 30px;
+	position: relative;
+	border-bottom: 0;
+	margin-top: 0;
+}
+
+.x-mesec:focus{
+	background: url("../img/inputs-focus.png") 0 -180px;	
+	width: 282ph;
+	height: 30px;
+	border: 1px solid #000;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 500;
+	font-style: normal;
+	font-size: 12px;
+	color: #FFF;
+	outline: none;
+	padding-left: 30px;
+	position: relative;
+	border-bottom: 0;
+	margin-top: 0;
+}
+
+.x-mod:focus{
+	background: url("../img/inputs-focus.png") 0 -150px;
+	width: 282ph;
+	height: 30px;
+	border: 1px solid #000;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 500;
+	font-style: normal;
+	font-size: 12px;
+	color: #FFF;
+	outline: none;
+	padding-left: 30px;
+	position: relative;
+	border-bottom: 0;
+	margin-top: 0;	
+}
+
+.x-igra:focus{
+	background: url("../img/inputs-focus.png") 0 -270px;	
+	width: 282ph;
+	height: 30px;
+	border: 1px solid #000;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 500;
+	font-style: normal;
+	font-size: 12px;
+	color: #FFF;
+	outline: none;
+	padding-left: 30px;
+	position: relative;
+	border-bottom: 0;
+	margin-top: 0;	
+}
+
+.x-lok:focus{
+	background: url("../img/inputs-focus.png") 0 0;	
+	width: 282ph;
+	height: 30px;
+	border: 1px solid #000;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 500;
+	font-style: normal;
+	font-size: 12px;
+	color: #FFF;
+	outline: none;
+	padding-left: 30px;
+	position: relative;
+	border-bottom: 0;
+	margin-top: 0;
+}
+
+.s-igra:focus{
+	background: url("../img/inputs-focus.png") 0 -270px;	
+}
+.s-lok:focus{
+	background: url("../img/inputs-focus.png") 0 0px;	
+}
+.lokk:focus{
+	background: url("../img/inputs-focus.png") 0 0px;	
+	width: 282ph;
+	height: 30px;
+	border: 1px solid #000;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 500;
+	font-style: normal;
+	font-size: 12px;
+	color: #FFF;
+	outline: none;
+	padding-left: 30px;
+	position: relative;
+	border-bottom: 0;
+	margin-top: 10px;
+}
+
+.s-slot:focus{
+	background: url("../img/inputs-focus.png") 0 -240px;	
+}
+.s-mesec:focus{
+	background: url("../img/inputs-focus.png") 0 -180px;	
+}
+.s-mod:focus{
+	background: url("../img/inputs-focus.png") 0 -150px;	
+}
+.sbSelector{
+	display: block;
+	height: 30px;
+	left: 0;
+	line-height: 30px;
+	outline: none;
+	overflow: hidden;
+	position: absolute;
+	text-indent: 10px;
+	top: 0;
+	width: 262px;
+}
+.sbSelector:link, .sbSelector:visited, .sbSelector:hover{
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 500;
+	font-style: normal;
+	font-size: 12px;
+	color: #FFF;
+	outline: none;
+	text-decoration: none;
+	padding-left: 20px;
+}
+.sbToggle{
+	background: url(../img/select-icons.png) 0 -116px no-repeat;
+	display: block;
+	height: 30px;
+	outline: none;
+	position: absolute;
+	right: 0;
+	top: 0;
+	width: 30px;
+}
+.sbToggle:hover{
+	background: url(../img/select-icons.png) 0 -167px no-repeat;
+}
+.sbToggleOpen{
+	background: url(../img/select-icons.png) 0 -16px no-repeat;
+}
+.sbToggleOpen:hover{
+	background: url(../img/select-icons.png) 0 -66px no-repeat;
+}
+.sbHolderDisabled{
+	background-color: #3C3C3C;
+}
+.sbHolderDisabled .sbHolder{
+	
+}
+.sbHolderDisabled .sbToggle{
+	
+}
+
+[class^="x-"] .sbOptions{
+	min-width: 355px;
+	max-width: 355px;
+	overflow-y: auto;
+	max-height: 215px;
+}
+.sbOptions{
+	background: #5a0000;
+	border: solid 1px #240000;
+	list-style: none;
+	left: -1px;
+	margin: -1px 0;
+	padding: 0;
+	position: absolute;
+	top: 30px;
+	width: 284px;
+	overflow-y: auto;
+	z-index: 9999;
+}
+.sbOptions li{
+	padding: 0 7px;
+	border-bottom: 1px solid #000000;
+	border-top: 1px solid #21040c;
+}
+.sbOptions a{
+
+	display: block;
+	outline: none;
+	padding: 3px 0 3px 3px;
+}
+.sbOptions a:link, .sbOptions a:visited{
+	color: #ddd;
+	text-decoration: none;
+}
+.sbOptions a:hover,
+.sbOptions a:focus,
+.sbOptions a.sbFocus{
+	color: #000000;
+}
+.sbOptions li.last a{
+	border-bottom: none;
+}
+.sbOptions .sbDisabled{
+	color: #999; 
+	display: block;
+	padding: 3px;
+}
+.sbOptions .sbGroup{
+	border-bottom: dotted 1px #515151;
+	color: #EBB52D;
+	display: block;
+	font-weight: 500;
+	padding: 7px 0 7px 3px;
+}
+.sbOptions .sbSub{
+	padding-left: 17px;
+}

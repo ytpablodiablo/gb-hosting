@@ -1,0 +1,126 @@
+{
+    "version": "1.12.1",
+    "changelog": "Deprecated Message. Please Update.",
+    "allVersions": [
+        {
+            "version": "1.0.1",
+            "changelog": "Now working on linux. Minor bug fixes for windows/linux."
+        },
+        {
+            "version": "1.0.0",
+            "changelog": "New Interface and too many new features to list here. Please Update."
+        },
+        {
+            "version": "1.0.2",
+            "changelog": "Fixed dashboard error on linux"
+        },
+        {
+            "version": "1.0.3",
+            "changelog": "Fixed player chart, onesync detection, and minor stuff"
+        },
+        {
+            "version": "1.0.4",
+            "changelog": "Fixed crashing on fxserver restart."
+        },
+        {
+            "version": "1.0.5",
+            "changelog": "Hotfix for the login problems. Node version checker"
+        },
+        {
+            "version": "1.1.0",
+            "changelog": "New Settings Page and setup script. Changed how server profiles work. <br><h5><b>Please read update instructions on discord.</b></h5>"
+        },
+        {
+            "version": "1.2.0",
+            "changelog": "Now saving the server log and showing it when you open the Live Console. Added a button to download the log below the console."
+        },
+        {
+            "version": "1.3.0",
+            "changelog": "Scheduled restarts announcements 15 minutes before. Discord announcements on server start/stop/restart."
+        },
+        {
+            "version": "1.4.0",
+            "changelog": "Admin Accounts Manager page."
+        },
+        {
+            "version": "1.5.0",
+            "changelog": "Permissions System."
+        },
+        {
+            "version": "1.6.0",
+            "changelog": "Resource Injector."
+        },
+        {
+            "version": "1.7.0",
+            "changelog": "Improved restarter behaviour. Minor bug fixes."
+        },
+        {
+            "version": "1.7.1",
+            "changelog": "Kicking players 15 seconds before scheduled restarts."
+        },
+        {
+            "version": "1.7.2",
+            "changelog": "Fixed commands.resources permission with the wrong name."
+        },
+        {
+            "version": "1.7.3",
+            "changelog": "Minor bug fixes and improved some settings descriptions and error messages."
+        },
+        {
+            "version": "1.7.4",
+            "changelog": "Added beta support for HTTPS/SSL. Added kick reason. Minor bug fixes."
+        },
+        {
+            "version": "1.8.0",
+            "changelog": "Added translation support for Chat/Discord messages."
+        },
+        {
+            "version": "1.8.1",
+            "changelog": "Quickfix for Linux instances."
+        },
+        {
+            "version": "1.9.0",
+            "changelog": "Added a resources page. Added Czech, Romanian and German translations."
+        },
+        {
+            "version": "1.10.0",
+            "changelog": "Added Server Activity Log (BETA). Added Discord command spam protection. Added more languages. Bug fixes."
+        },
+        {
+            "version": "1.10.1",
+            "changelog": "Fixed resource injection for new installations."
+        },
+        {
+            "version": "1.11.3",
+            "changelog": "Fixed error 413. Multiple bug fixes and improvements."
+        },
+        {
+            "version": "1.11.4",
+            "changelog": "Optimized txAdmin (40% less dependecies). Improved some pages on Mobile."
+        },
+        {
+            "version": "1.11.5",
+            "changelog": "Added option to change own password."
+        },
+        {
+            "version": "1.11.6",
+            "changelog": "Reorganized some internal files."
+        },
+        {
+            "version": "1.11.7",
+            "changelog": "Process freeze detector."
+        },
+        {
+            "version": "1.11.8",
+            "changelog": "Scripting setup now via exec file instead of stdin.write."
+        },
+        {
+            "version": "1.12.0",
+            "changelog": "New Experimental Ban System!"
+        },
+        {
+            "version": "1.12.1",
+            "changelog": "Quickfix: solved empty list issue with ban system"
+        }
+    ]
+}

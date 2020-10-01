@@ -1,0 +1,4 @@
+de_dust2_2x2
+cs_assault
+de_inferno_2x2
+de_nuke_2x2

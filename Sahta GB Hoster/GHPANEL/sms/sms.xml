@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<services_api_response version="2.0">
+  <status>
+    <code>0</code>
+    <message>OK</message>
+  </status>
+  <service id="787efd9572f281ed76044a3fdbc04503">
+    <countries>
+      <country code="AL" approved="true" name="Albania" vat="20.00">
+        <prices>
+          <price amount="120.00" vat_included="true" currency="ALL" all_operators="true">
+            <message_profile shortcode="54345" keyword="FOR SRV2" all_operators="true">
+              <operator code="Eagle Mobile" revenue="31.00" default_billing_status="OK" name="Eagle Mobile" billing_type="MO">
+                <codes>
+                  <code mnc="3" mcc="276"/>
+                </codes>
+              </operator>
+              <operator code="Plus" revenue="31.00" default_billing_status="OK" name="Plus" billing_type="MO">
+                <codes>
+                  <code mnc="04" mcc="276"/>
+                </codes>
+              </operator>
+              <operator code="Telekom Albania" revenue="31.00" default_billing_status="OK" name="Telekom Albania" billing_type="MO">
+                <codes>
+                  <code mnc="1" mcc="276"/>
+                </codes>
+              </operator>
+              <operator code="Vodafone" revenue="31.00" default_billing_status="Failed" name="Vodafone" billing_type="MT">
+                <codes>
+                  <code mnc="2" mcc="276"/>
+                  <code mnc="02" mcc="276"/>
+                </codes>
+              </operator>
+            </message_profile>
+          </price>
+        </prices>
+        <promotional_text>
+          <local>Price: 120.00 ALL.
+Support: +38206562298 | dev.kevia@gmail.com</local>
+        </promotional_text>
+      </country>
+      <country code="AT" approved="true" name="Austria" vat="20.00">
+        <prices>
+          <price amount="1.10" vat_included="true" currency="EUR" all_operators="false">
+            <message_profile double_confirmation_shortcode="0900506506" double_confirmation_text="JA" shortcode="0900506506" keyword="TXT SRV2" all_operators="false">
+              <operator code="T-Mobile" revenue="0.33" default_billing_status="Failed" name="T-Mobile" billing_type="MT">
+                <codes>
+                  <code mnc="3" mcc="232"/>
+                  <code mnc="7" mcc="232"/>
+                </codes>
+              </operator>
+              <operator code="Orange" revenue="0.29" default_billing_status="Failed" name="Orange" billing_type="MT">
+                <codes>
+                  <code mnc="5" mcc="232"/>
+                </codes>
+              </operator>
+              <operator code="A1" revenue="0.37" default_billing_status="Failed" name="A1" billing_type="MT">
+                <codes>
+                  <code mnc="1" mcc="232"/>
+                  <code mnc="11" mcc="232"/>
+                </codes>
+              </operator>
+              <operator code="Drei" revenue="0.28" default_billing_status="Failed" name="Drei" billing_type="MT">
+                <codes>
+                  <code mnc="10" mcc="232"/>
+                </codes>
+              </operator>
+            </message_profile>
+          </price>
+        </prices>
+        <promotional_text>
+          <local>Preis: &#8364;1,10
+Support: +38206562298 | dev.kevia@gmail.com
+Hinweis auf R&#252;cktrittsrecht 
+</local>
+          <english>Price: &#8364;1.10
+Support: +38206562298 | dev.kevia@gmail.com
+Withdrawal regulations: https://s.fortumo.com/a</english>
+        </promotional_text>
+      </country>
+      <country code="AZ" approved="true" name="Azerbaijan" vat="18.00">
+        <prices>
+          <price amount="1.99" vat_included="false" currency="AZN" all_operators="false">
+            <message_profile shortcode="3302" keyword="TXT2 SRV2" all_operators="false">
+              <operator code="Nar" revenue="0.36" default_billing_status="OK" name="Nar" billing_type="MO">
+                <codes>
+                  <code mnc="4" mcc="400"/>
+                </codes>
+              </operator>
+            </message_profile>
+          </price>
+          <price amount="2.00" vat_included="false" currency="AZN" all_operators="false">
+            <message_profile shortcode="3302" keyword="TXT2 SRV2" all_operators="false">
+              <operator code="Bakcell" revenue="0.54" default_billing_status="OK" name="Bakcell" billing_type="MO">
+                <codes>
+                  <code mnc="2" mcc="400"/>
+                </codes>
+              </operator>
+            </message_profile>
+            <message_profile shortcode="9853" keyword="TXT2 SRV2" all_operators="false">
+              <operator code="Azercell" revenue="0.52" default_billing_status="OK" name="Azercell" billing_type="MO">
+                <codes>
+                  <code mnc="1" mcc="400"/>
+                </codes>
+              </operator>
+            </message_profile>
+          </price>
+        </prices>
+        <promotional_text>
+          <local>Service valid for Azercell, Bakucell and Nar Mobile. The shortcode for Bakucell and Nar Mobile is 3302, the prices are 2.00 AZN + VAT for Bakucell and 1.99 AZN + VAT for Nar Mobile. Shortcode for Azercell is 9853 with price 2.00 AZN + VAT. 
+Support: +38206562298 | dev.kevia@gmail.com
+</local>
+        </promotional_text>
+      </country>
+      <country code="BE" approved="true" name="Belgium" vat="21.00">
+        <prices>
+          <price amount="1.50" vat_included="true" currency="EUR" all_operators="true">
+            <message_profile shortcode="6569" keyword="TXT SRV2" all_operators="true">
+              <operator code="Orange" revenue="0.56" default_billing_status="Failed" name="Orange" billing_type="MT">
+                <codes>
+                  <code mnc="10" mcc="206"/>
+                </codes>
+              </operator>
+              <operator code="Base" revenue="0.50" default_billing_status="Failed" name="Base" billing_type="MT">
+                <codes>
+                  <code mnc="20" mcc="206"/>
+                </codes>
+              </operator>
+              <operator code="Telenet" revenue="0.56" default_billing_status="Failed" name="Telenet" billing_type="MT">
+                <codes>
+                  <code mnc="5" mcc="206"/>
+                </codes>
+              </operator>
+              <operator code="Proximus" revenue="0.56" default_billing_status="Failed" name="Proximus" billing_type="MT">
+                <codes>
+                  <code mnc="1" mcc="206"/>
+                </codes>
+              </operator>
+            </message_profile>
+          </price>
+        </prices>
+        <promotional_text>
+          <local>Price: &#8364;1.50
+Support: s.fortumo.com. Payments helpline: +32 (0) 2 808 99 74.</local>
+        </promotional_text>
+      </country>
+      <country code="BA" approved="true" name="Bosnia and Herzegovina" vat="17.00">
+        <prices>
+          <price amount="2.00" vat_included="false" currency="BAM" all_operators="true">
+            <message_profile shortcode="091810700" keyword="TXT SRV2" all_operators="true">
+              <operator code="BH Mobile" revenue="0.78" default_billing_status="OK" name="BH Mobile" billing_type="MO">
+                <codes>
+                  <code mnc="90" mcc="218"/>
+                </codes>
+              </operator>
+              <operator code="HT-ERONET" revenue="0.78" default_billing_status="OK" name="HT-ERONET" billing_type="MO">
+                <codes>
+                  <code mnc="3" mcc="218"/>
+                </codes>
+              </operator>
+              <operator code="M:tel" revenue="0.78" default_billing_status="Failed" name="M:tel" billing_type="MT">
+                <codes>
+                  <code mnc="5" mcc="218"/>
+                </codes>
+              </operator>
+            </message_profile>
+          </price>
+        </prices>
+        <promotional_text>
+          <local>Cena: 2,00 BAM + PDV
+Podr&#353;ka: +38206562298 | dev.kevia@gmail.com</local>
+          <english>Price: 2.00 BAM + VAT
+Support: +38206562298 | dev.kevia@gmail.com
+</english>
+        </promotional_text>
+      </country>
+      <country code="CY" approved="true" name="Cyprus" vat="19.00">
+        <prices>
+          <price amount="1.33" vat_included="true" currency="EUR" all_operators="true">
+            <message_profile shortcode="7510" keyword="FOR SRV2" all_operators="true">
+              <operator code="Cyta: Mobile" revenue="0.39" default_billing_status="OK" name="Cyta: Mobile" billing_type="MO">
+                <codes>
+                  <code mnc="1" mcc="280"/>
+                </codes>
+              </operator>
+              <operator code="MTN" revenue="0.39" default_billing_status="OK" name="MTN" billing_type="MO">
+                <codes>
+                  <code mnc="10" mcc="280"/>
+                </codes>
+              </operator>
+            </message_profile>
+          </price>
+        </prices>
+        <promotional_text>
+          <local>Price: &#8364;1,33
+Support: +38206562298 | dev.kevia@gmail.com
+Service available to Cyta-Vodafone and MTN subscribers. </local>
+        </promotional_text>
+      </country>
+      <country code="CZ" approved="true" name="Czech Republic" vat="21.00">
+        <prices>
+          <price amount="30.00" vat_included="true" currency="CZK" all_operators="true">
+            <message_profile shortcode="90309" keyword="PAY3 SRV2" all_operators="true">
+              <operator code="O2" revenue="9.92" default_billing_status="Failed" name="O2" billing_type="MT">
+                <codes>
+                  <code mnc="2" mcc="230"/>
+                </codes>
+              </operator>
+              <operator code="T-Mobile" revenue="9.92" default_billing_status="Failed" name="T-Mobile" billing_type="MT">
+                <codes>
+                  <code mnc="1" mcc="230"/>
+                </codes>
+              </operator>
+              <operator code="Vodafone" revenue="9.92" default_billing_status="Failed" name="Vodafone" billing_type="MT">
+                <codes>
+                  <code mnc="3" mcc="230"/>
+                  <code mnc="99" mcc="230"/>
+                </codes>
+              </operator>
+            </message_profile>
+          </price>
+        </prices>
+        <promotional_text>
+          <local>Pay by SMS. Price: 30.00 CZK Z&#225;kaznick&#225; podpora: Infolinka: +420 234 718 513 Provozovatelem SMS slu&#382;by je SMSden LLC. Doklad ke sta&#382;en&#237; na www.smsden.com/bill Technicky zaji&#353;&#357;uje ComGate Payments a.s.  www.platmobilem.cz Slu&#382;ba je dostupn&#225; z T-Mobile, Vodafone a O2 
+Support: +38206562298 | dev.kevia@gmail.com</local>
+        </promotional_text>
+      </country>
+      <country code="EE" approved="true" name="Estonia" vat="20.00">
+        <prices>
+          <price amount="0.96" vat_included="true" currency="EUR" all_operators="true">
+            <message_profile shortcode="15330" keyword="CHAT SRV2" all_operators="true">
+              <operator code="Elisa" revenue="0.40" default_billing_status="OK" name="Elisa" billing_type="MO">
+                <codes>
+                  <code mnc="02" mcc="248"/>
+                </codes>
+              </operator>
+              <operator code="Tele2" revenue="0.40" default_billing_status="OK" name="Tele2" billing_type="MO">
+                <codes>
+                  <code mnc="03" mcc="248"/>
+                  <code mnc="06" mcc="248"/>
+                </codes>
+              </operator>
+              <operator code="Telia" revenue="0.40" default_billing_status="OK" name="Telia" billing_type="MO">
+                <codes>
+                  <code mnc="01" mcc="248"/>
+                </codes>
+              </operator>
+            </message_profile>
+          </price>
+        </prices>
+        <promotional_text>
+          <local>Hind: &#8364;0.96
+Klienditugi: +38206562298 | dev.kevia@gmail.com
+</local>
+          <english>Price: &#8364;0.96
+Support: +38206562298 | dev.kevia@gmail.com
+</english>
+        </promotional_text>
+      </country>
+      <country code="GE" approved="true" name="Georgia" vat="18.00">
+        <prices>
+          <price amount="3.41" vat_included="true" currency="GEL" all_operators="true">
+            <message_profile shortcode="93336" keyword="TAP SRV2" all_operators="true">
+              <operator code="Beeline" revenue="0.29" default_billing_status="OK" name="Beeline" billing_type="MO">
+                <codes>
+                  <code mnc="4" mcc="282"/>
+                </codes>
+              </operator>
+              <operator code="Geocell" revenue="0.58" default_billing_status="OK" name="Geocell" billing_type="MO">
+                <codes>
+                  <code mnc="1" mcc="282"/>
+                </codes>
+              </operator>
+              <operator code="MagtiCom" revenue="0.78" default_billing_status="OK" name="MagtiCom" billing_type="MO">
+                <codes>
+                  <code mnc="2" mcc="282"/>
+                </codes>
+              </operator>
+            </message_profile>
+          </price>
+        </prices>
+        <promotional_text>
+          <local>Price: 3.41 GEL
+Support: +38206562298 | dev.kevia@gmail.com
+</local>
+        </promotional_text>
+      </country>
+      <country code="DE" approved="true" name="Germany" vat="19.00">
+        <prices>
+          <price amount="0.99" vat_included="true" currency="EUR" all_operators="true">
+            <message_profile shortcode="89000" keyword="FOR SRV2" all_operators="true">
+              <operator code="Vodafone" revenue="0.42" default_billing_status="OK" name="Vodafone" billing_type="MO">
+                <codes>
+                  <code mnc="2" mcc="262"/>
+                  <code mnc="4" mcc="262"/>
+                  <code mnc="9" mcc="262"/>
+                  <code mnc="42" mcc="262"/>
+                </codes>
+              </operator>
+              <operator code="T-Mobile" revenue="0.42" default_billing_status="OK" name="T-Mobile" billing_type="MO">
+                <codes>
+                  <code mnc="1" mcc="262"/>
+                  <code mnc="6" mcc="262"/>
+                </codes>
+              </operator>
+              <operator code="O2" revenue="0.44" default_billing_status="OK" name="O2" billing_type="MO">
+                <codes>
+                  <code mnc="7" mcc="262"/>
+                  <code mnc="8" mcc="262"/>
+                  <code mnc="11" mcc="262"/>
+                  <code mnc="12" mcc="262"/>
+                  <code mnc="5" mcc="262"/>
+                  <code mnc="77" mcc="262"/>
+                  <code mnc="3" mcc="262"/>
+                </codes>
+              </operator>
+              <operator code="Mobilcom-Debitel" revenue="0.42" default_billing_status="OK" name="Mobilcom-Debitel" billing_type="MO">
+                <codes>
+                  <code mnc="901" mcc="262"/>
+                  <code mnc="13" mcc="262"/>
+                </codes>
+              </operator>
+            </message_profile>
+          </price>
+        </prices>
+        <promotional_text>
+          <local>Preis: &#8364;0,99
+Support: +38206562298 | dev.kevia@gmail.com
+</local>
+          <english>Price: &#8364;0.99
+Support: +38206562298 | dev.kevia@gmail.com
+</english>
+        </promotional_text>
+      </country>
+      <country code="HU" approved="true" name="Hungary" vat="27.00">
+        <prices>
+          <price amount="305.00" vat_included="true" currency="HUF" all_operators="true">
+            <message_profile shortcode="0691555400" keyword="TXT SRV2" all_operators="true">
+              <operator code="Magyar Telekom" revenue="98.46" default_billing_status="OK" name="Magyar Telekom" billing_type="MO">
+                <codes>
+                  <code mnc="30" mcc="216"/>
+                </codes>
+              </operator>
+              <operator code="Telenor" revenue="98.46" default_billing_status="OK" name="Telenor" billing_type="MO">
+                <codes>
+                  <code mnc="1" mcc="216"/>
+                </codes>
+              </operator>
+              <operator code="Vodafone" revenue="98.46" default_billing_status="OK" name="Vodafone" billing_type="MO">
+                <codes>
+                  <code mnc="70" mcc="216"/>
+                </codes>
+              </operator>
+            </message_profile>
+          </price>
+        </prices>
+        <promotional_text>
+          <local>Brutt&#243;: 305 Ft
+Email:info@telemedia.hu
+&#220;gyf&#233;lszolg&#225;lat telefonsz&#225;ma: +3614557284
+Mobile Payment by fortumo.com </local>
+          <english>Price: 305 Ft
+Support: +38206562298 | dev.kevia@gmail.com
+Mobile Payment by fortumo.com </english>
+        </promotional_text>
+      </country>
+      <country code="KV" approved="true" name="Kosovo" vat="18.00">
+        <prices>
+          <price amount="1.00" vat_included="true" currency="EUR" all_operators="true">
+            <message_profile shortcode="55050" keyword="FOR SRV2" all_operators="true">
+              <operator code="IPKO" revenue="0.34" default_billing_status="OK" name="IPKO" billing_type="MO">
+              </operator>
+              <operator code="Vala" revenue="0.34" default_billing_status="OK" name="Vala" billing_type="MO">
+                <codes>
+                  <code mnc="1" mcc="212"/>
+                </codes>
+              </operator>
+            </message_profile>
+          </price>
+        </prices>
+        <promotional_text>
+          <local>Price: &#8364;1.00.
+Support: +38206562298 | dev.kevia@gmail.com</local>
+        </promotional_text>
+      </country>
+      <country code="LU" approved="true" name="Luxembourg" vat="17.00">
+        <prices>
+          <price amount="1.50" vat_included="true" currency="EUR" all_operators="true">
+            <message_profile shortcode="64747" keyword="TXT SRV1" all_operators="true">
+              <operator code="Orange" revenue="0.60" default_billing_status="Failed" name="Orange" billing_type="MT">
+                <codes>
+                  <code mnc="99" mcc="270"/>
+                </codes>
+              </operator>
+              <operator code="POST" revenue="0.60" default_billing_status="Failed" name="POST" billing_type="MT">
+                <codes>
+                  <code mnc="1" mcc="270"/>
+                </codes>
+              </operator>
+              <operator code="Tango" revenue="0.60" default_billing_status="Failed" name="Tango" billing_type="MT">
+                <codes>
+                  <code mnc="77" mcc="270"/>
+                </codes>
+              </operator>
+            </message_profile>
+          </price>
+        </prices>
+        <promotional_text>
+          <local>Prix: &#8364;1,50
+Support: +38206562298 | dev.kevia@gmail.com
+</local>
+          <english>Price: &#8364;1.50
+Support: +38206562298 | dev.kevia@gmail.com
+</english>
+        </promotional_text>
+      </country>
+      <country code="MK" approved="true" name="Macedonia" vat="18.00">
+        <prices>
+          <price amount="59.00" vat_included="true" currency="MKD" all_operators="true">
+            <message_profile shortcode="141551" keyword="TAP SRV2" all_operators="true">
+              <operator code="Makedonski Telekom" revenue="19.00" default_billing_status="OK" name="Makedonski Telekom" billing_type="MO">
+                <codes>
+                  <code mnc="1" mcc="294"/>
+                </codes>
+              </operator>
+              <operator code="One" revenue="19.00" default_billing_status="OK" name="One" billing_type="MO">
+                <codes>
+                  <code mnc="2" mcc="294"/>
+                </codes>
+              </operator>
+              <operator code="one.Vipnet" revenue="19.00" default_billing_status="OK" name="one.Vipnet" billing_type="MO">
+                <codes>
+                  <code mnc="3" mcc="294"/>
+                </codes>
+              </operator>
+            </message_profile>
+          </price>
+        </prices>
+        <promotional_text>
+          <local>&#1062;&#1077;&#1085;&#1072;: 59,00 MKD
+&#1055;&#1086;&#1076;&#1088;&#1096;&#1082;&#1072;: +38206562298 | dev.kevia@gmail.com</local>
+          <english>Price: 59.00 MKD, excluding taxes and charges.
+Support: +38206562298 | dev.kevia@gmail.com</english>
+        </promotional_text>
+      </country>
+      <country code="ME" approved="true" name="Montenegro" vat="19.00">
+        <prices>
+          <price amount="1.02" vat_included="true" currency="EUR" all_operators="true">
+            <message_profile shortcode="14741" keyword="FOR SRV2" all_operators="true">
+              <operator code="m:tel" revenue="0.45" default_billing_status="OK" name="m:tel" billing_type="MO">
+                <codes>
+                  <code mnc="3" mcc="297"/>
+                </codes>
+              </operator>
+              <operator code="Telenor" revenue="0.45" default_billing_status="OK" name="Telenor" billing_type="MO">
+                <codes>
+                  <code mnc="1" mcc="297"/>
+                </codes>
+              </operator>
+              <operator code="Crnogorski Telekom" revenue="0.39" default_billing_status="OK" name="Crnogorski Telekom" billing_type="MO">
+                <codes>
+                  <code mnc="2" mcc="297"/>
+                  <code mnc="4" mcc="297"/>
+                </codes>
+              </operator>
+            </message_profile>
+          </price>
+        </prices>
+        <promotional_text>
+          <local>Price: &#8364;1.02
+Support: +38206562298 | dev.kevia@gmail.com</local>
+        </promotional_text>
+      </country>
+      <country code="PT" approved="true" name="Portugal" vat="23.00">
+        <prices>
+          <price amount="1.00" vat_included="true" currency="EUR" all_operators="true">
+            <message_profile shortcode="68634" keyword="FOR SRV2" all_operators="true">
+              <operator code="MEO" revenue="0.24" default_billing_status="OK" name="MEO" billing_type="MO">
+                <codes>
+                  <code mnc="6" mcc="268"/>
+                </codes>
+              </operator>
+              <operator code="NOS" revenue="0.24" default_billing_status="OK" name="NOS" billing_type="MO">
+                <codes>
+                  <code mnc="3" mcc="268"/>
+                </codes>
+              </operator>
+              <operator code="Vodafone" revenue="0.24" default_billing_status="OK" name="Vodafone" billing_type="MO">
+                <codes>
+                  <code mnc="1" mcc="268"/>
+                </codes>
+              </operator>
+            </message_profile>
+          </price>
+        </prices>
+        <promotional_text>
+          <local>Price: &#8364;1,00
+Support: +38206562298 | dev.kevia@gmail.com
+</local>
+        </promotional_text>
+      </country>
+      <country code="SK" approved="true" name="Slovakia" vat="20.00">
+        <prices>
+          <price amount="1.20" vat_included="true" currency="EUR" all_operators="true">
+            <message_profile shortcode="7771" keyword="TXT SRV2" all_operators="true">
+              <operator code="O2" revenue="0.40" default_billing_status="Failed" name="O2" billing_type="MT">
+                <codes>
+                  <code mnc="6" mcc="231"/>
+                </codes>
+              </operator>
+              <operator code="Orange" revenue="0.40" default_billing_status="Failed" name="Orange" billing_type="MT">
+                <codes>
+                  <code mnc="1" mcc="231"/>
+                  <code mnc="5" mcc="231"/>
+                  <code mnc="15" mcc="231"/>
+                </codes>
+              </operator>
+              <operator code="Telekom" revenue="0.40" default_billing_status="Failed" name="Telekom" billing_type="MT">
+                <codes>
+                  <code mnc="2" mcc="231"/>
+                  <code mnc="4" mcc="231"/>
+                </codes>
+              </operator>
+            </message_profile>
+          </price>
+        </prices>
+        <promotional_text>
+          <local>Price: &#8364;1.20
+Support: +38206562298 | dev.kevia@gmail.com
+</local>
+        </promotional_text>
+      </country>
+      <country code="SI" approved="true" name="Slovenia" vat="22.00">
+        <prices>
+          <price amount="0.99" vat_included="true" currency="EUR" all_operators="true">
+            <message_profile shortcode="3838" keyword="TXT SRV2" all_operators="true">
+              <operator code="Si.mobil" revenue="0.28" default_billing_status="Failed" name="Si.mobil" billing_type="MT">
+                <codes>
+                  <code mnc="40" mcc="293"/>
+                </codes>
+              </operator>
+              <operator code="Telekom Slovenije" revenue="0.28" default_billing_status="Failed" name="Telekom Slovenije" billing_type="MT">
+                <codes>
+                  <code mnc="41" mcc="293"/>
+                </codes>
+              </operator>
+              <operator code="Telemach" revenue="0.28" default_billing_status="Failed" name="Telemach" billing_type="MT">
+                <codes>
+                  <code mnc="70" mcc="293"/>
+                </codes>
+              </operator>
+            </message_profile>
+          </price>
+        </prices>
+        <promotional_text>
+          <local>Cena: &#8364;0,99
+Podpora: +38206562298 | dev.kevia@gmail.com</local>
+          <english>Price: &#8364;0.99
+Support: +38206562298 | dev.kevia@gmail.com</english>
+        </promotional_text>
+      </country>
+      <country code="ES" approved="true" name="Spain" vat="21.00">
+        <prices>
+          <price amount="1.45" vat_included="true" currency="EUR" all_operators="true">
+            <message_profile shortcode="27992" keyword="TXT SRV2" all_operators="true">
+              <operator code="Movistar" revenue="0.65" default_billing_status="Failed" name="Movistar" billing_type="MT">
+                <codes>
+                  <code mnc="22" mcc="214"/>
+                  <code mnc="5" mcc="214"/>
+                  <code mnc="7" mcc="214"/>
+                  <code mnc="18" mcc="214"/>
+                  <code mnc="25" mcc="214"/>
+                </codes>
+              </operator>
+              <operator code="Orange" revenue="0.65" default_billing_status="Failed" name="Orange" billing_type="MT">
+                <codes>
+                  <code mnc="3" mcc="214"/>
+                  <code mnc="9" mcc="214"/>
+                  <code mnc="21" mcc="214"/>
+                  <code mnc="19" mcc="214"/>
+                </codes>
+              </operator>
+              <operator code="Vodafone" revenue="0.65" default_billing_status="Failed" name="Vodafone" billing_type="MT">
+                <codes>
+                  <code mnc="1" mcc="214"/>
+                  <code mnc="6" mcc="214"/>
+                  <code mnc="16" mcc="214"/>
+                </codes>
+              </operator>
+              <operator code="Yoigo" revenue="0.65" default_billing_status="Failed" name="Yoigo" billing_type="MT">
+                <codes>
+                  <code mnc="4" mcc="214"/>
+                </codes>
+              </operator>
+            </message_profile>
+          </price>
+        </prices>
+        <promotional_text>
+          <local>Precio: &#8364;1,45
+Coste del mensaje 1,42&#8364; IVA Incluido. Electronic Corporate Solutions para Fortumo. n.&#186; atn clte. 902599327. sms@&#8230;. Apdo. correos 61010 CP. 28036 Madrid. Servicio de ocio y entretenimiento disponible en Espa&#241;a para abonados de Movistar, Vodafone y Orange.
+Soporte: +38206562298 | dev.kevia@gmail.com</local>
+          <english>Price: &#8364;1.45
+Message cost 1,42&#8364;, VAT included. Electronic Corporate Solutions for Fortumo. Tel. 902599327. sms@&#8230;. Address: 61010 CP. 28036 Madrid. Leisure and entertainment service available to Movistar, Vodafone and Orange subscribers in Spain.
+Support: +38206562298 | dev.kevia@gmail.com</english>
+        </promotional_text>
+      </country>
+      <country code="CH" approved="true" name="Switzerland" vat="8.00">
+        <prices>
+          <price amount="1.00" vat_included="true" currency="CHF" all_operators="true">
+            <message_profile shortcode="565" keyword="DAG SRV2" all_operators="true">
+              <operator code="Salt" revenue="0.39" default_billing_status="Failed" name="Salt" billing_type="MT">
+                <codes>
+                  <code mnc="3" mcc="228"/>
+                </codes>
+              </operator>
+              <operator code="Sunrise" revenue="0.42" default_billing_status="Failed" name="Sunrise" billing_type="MT">
+                <codes>
+                  <code mnc="2" mcc="228"/>
+                  <code mnc="12" mcc="228"/>
+                </codes>
+              </operator>
+              <operator code="Swisscom" revenue="0.50" default_billing_status="Failed" name="Swisscom" billing_type="MT">
+                <codes>
+                  <code mnc="1" mcc="228"/>
+                </codes>
+              </operator>
+            </message_profile>
+          </price>
+        </prices>
+        <promotional_text>
+          <local>Price: 1.00 CHF
+Support: +38206562298 | dev.kevia@gmail.com
+</local>
+        </promotional_text>
+      </country>
+    </countries>
+  </service>
+</services_api_response>

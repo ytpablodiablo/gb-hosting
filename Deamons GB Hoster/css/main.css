@@ -1,0 +1,375 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css");
+@import url("https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js");
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+/* MESSAGE */
+#msg_bar_ok{
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 60px;
+    background: #07c10d;
+    text-align: center;
+    color: #fff;
+    border-bottom: 1px solid #fff;
+}
+#msg_bar_ok p{   
+    margin-top: 1%;
+    font-size: 15px;
+    font-weight: bold;
+}
+#msg_bar_error{
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 60px;
+    background: red;
+    text-align: center;
+    color: #fff;
+    border-bottom: 1px solid #fff;
+}
+#msg_bar_error p{   
+    margin-top: 1%;
+    font-size: 15px;
+    font-weight: bold;
+}
+#msg_bar_info{
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 60px;
+    background: #0971af;
+    text-align: center;
+    color: #fff;
+    border-bottom: 1px solid #fff;
+}
+#msg_bar_info p{   
+    margin-top: 1%;
+    font-size: 15px;
+    font-weight: bold;
+}
+/* end/message */
+
+
+/* GP SERVERS */
+
+#serveri{
+
+    width:100%;
+
+    position:relative;
+
+}
+
+
+
+#serveri table{
+
+    width: 100%;
+
+    text-align: left;
+
+    border-collapse: collapse;
+
+    border: 1px solid #4a5367;  
+
+}
+
+
+
+#serveri table tr{
+
+    border:1px solid #4a5367;
+
+}
+
+
+
+#serveri table td{
+
+    border:1px solid #4a5367;
+
+    padding:10px;
+
+    color:#8694b0;
+
+}
+
+
+
+#serveri table a{
+
+    text-decoration:none;
+
+    color:#8694b0;
+
+}
+
+
+
+#serveri table th{
+
+    border: 1px solid #4a5367;
+
+    padding: 5px;
+
+    background: url(../img/icon/submit-overlay.png);
+
+    color: #fff;
+
+}
+
+#popUP {
+
+    margin-top: 100px;
+
+    background: #fff;
+
+    border: 2px solid #000;
+
+    border-radius: 10px;
+
+    padding: 10px 15px;
+
+}
+
+
+
+.popUP li {
+
+    display: block;
+
+}
+
+
+
+.popUP button {
+
+    background: none;
+
+    border: 1px solid #043654;
+
+    margin: 15px 5px;
+
+    display: inline-block;
+
+    padding: 3px 10px;
+
+    float: left;
+
+}
+
+
+
+.popUP input {
+
+    border: 1px solid #333;
+
+    width: 250px;
+
+    color: #333;
+
+}
+
+/* ADD ADMIN */
+
+
+
+.add_admin_by_owner_panel {
+
+    margin-top: 10px;
+
+}
+
+
+
+.add_admin_by_owner_panel label {
+
+
+
+}
+
+
+
+.add_admin_by_owner_panel input {
+
+    width: 100%;
+
+    border: 1px solid #333;
+
+    color: #333!important;
+
+    padding: 5px;
+
+}
+
+
+
+.add_admin_by_owner_panel select {
+
+    width: 100%;
+
+    border: 1px solid #333;
+
+    color: #333!important;
+
+    padding: 5px;
+
+}
+
+
+
+.add_admin_by_owner_panel option {
+
+    width: 100%;
+
+    color: #333;
+
+}
+
+
+
+.flaG_ input {
+
+    width: 60px;
+
+}
+
+
+
+.flaG_ li {
+
+    width: 180px;
+
+    display: inline-block;
+
+    font-size: 11px;
+
+}
+
+
+.clear { 
+
+    clear:both!important; 
+
+} 
+
+
+
+.right { 
+
+    float: right!important; 
+
+} 
+
+
+
+.left { 
+
+    float: left!important; 
+
+}
+
+/* GP WebFTP */
+
+
+
+input[name=file]{
+
+    font-family: Tahoma, Verdana, Arial, sans-serif;
+
+    font-weight: normal;
+
+    font-size: 11px;
+
+    line-height: 16px;
+
+    border: 1px solid #076ba6;
+
+    color: #999;
+
+}
+
+
+
+input[name=folder_name], inp{
+
+    font-family: Tahoma, Verdana, Arial, sans-serif;
+
+    font-weight: normal;
+
+    font-size: 11px;
+
+    line-height: 16px;
+
+    border: 1px solid #076ba6;
+
+    color: #000;
+
+}
+
+
+
+input[type=submit]{
+
+    font-family: Tahoma, Verdana, Arial, sans-serif;
+
+    font-weight: normal;
+
+    font-size: 11px;
+
+    line-height: 16px;
+
+    border: 1px solid #076ba6;
+
+    color: black;
+
+    background: none;
+
+}
+
+#ftp_sacuvajFile textarea {
+
+    margin: 0px;
+
+    width: 100%;
+
+    height: 555px;
+
+    padding: 5px 10px;
+
+    border: 1px solid black;
+
+    font-family: Consolas, "Bitstream Vera Sans Mono", "Courier New", Courier, monospace;
+
+    font-weight: normal;
+
+    line-height: 16px;
+
+    color: black;
+
+    font-size: 12px;
+
+    background: rgba(0,0,0,0.5);
+
+    position: relative;
+
+}
+
+#file_info {
+
+    color: black;
+
+    margin: 10px 0;
+
+}
+
+#file_info i {
+
+    color: black;
+
+    padding: 0 2px;
+
+    font-size: 12px;
+
+}

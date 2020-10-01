@@ -1,0 +1,76 @@
+[30-Jul-2019 14:26:56 Europe/Belgrade] PHP Notice:  Array to string conversion in /home/gbhoster/demons.gb-hoster.me/index.php on line 145
+[30-Jul-2019 14:27:39 Europe/Belgrade] PHP Notice:  Array to string conversion in /home/gbhoster/demons.gb-hoster.me/index.php on line 146
+[30-Jul-2019 14:28:35 Europe/Belgrade] PHP Notice:  Array to string conversion in /home/gbhoster/demons.gb-hoster.me/index.php on line 146
+[30-Jul-2019 14:29:07 Europe/Belgrade] PHP Notice:  Array to string conversion in /home/gbhoster/demons.gb-hoster.me/core/class/class.GTServerInfo.php on line 245
+[30-Jul-2019 14:29:37 Europe/Belgrade] PHP Notice:  Array to string conversion in /home/gbhoster/demons.gb-hoster.me/core/class/class.GTServerInfo.php on line 246
+[30-Jul-2019 14:30:04 Europe/Belgrade] PHP Notice:  Array to string conversion in /home/gbhoster/demons.gb-hoster.me/core/class/class.GTServerInfo.php on line 241
+[30-Jul-2019 14:31:11 Europe/Belgrade] PHP Parse error:  syntax error, unexpected '}' in /home/gbhoster/demons.gb-hoster.me/index.php on line 134
+[30-Jul-2019 14:31:28 Europe/Belgrade] PHP Notice:  Undefined variable: ip in /home/gbhoster/demons.gb-hoster.me/index.php on line 125
+[30-Jul-2019 14:31:29 Europe/Belgrade] PHP Notice:  Undefined index: boosts in /home/gbhoster/demons.gb-hoster.me/index.php on line 133
+[30-Jul-2019 14:31:29 Europe/Belgrade] PHP Notice:  Undefined variable: LastBoost in /home/gbhoster/demons.gb-hoster.me/index.php on line 155
+[30-Jul-2019 14:31:49 Europe/Belgrade] PHP Notice:  Array to string conversion in /home/gbhoster/demons.gb-hoster.me/index.php on line 133
+[30-Jul-2019 14:31:49 Europe/Belgrade] PHP Notice:  Undefined variable: LastBoost in /home/gbhoster/demons.gb-hoster.me/index.php on line 155
+[30-Jul-2019 14:32:12 Europe/Belgrade] PHP Notice:  Array to string conversion in /home/gbhoster/demons.gb-hoster.me/index.php on line 133
+[30-Jul-2019 14:32:12 Europe/Belgrade] PHP Notice:  Undefined variable: LastBoost in /home/gbhoster/demons.gb-hoster.me/index.php on line 155
+[30-Jul-2019 14:32:45 Europe/Belgrade] PHP Notice:  Undefined variable: LastBoost in /home/gbhoster/demons.gb-hoster.me/index.php on line 155
+[30-Jul-2019 14:33:19 Europe/Belgrade] PHP Notice:  Array to string conversion in /home/gbhoster/demons.gb-hoster.me/index.php on line 133
+[30-Jul-2019 14:33:19 Europe/Belgrade] PHP Notice:  Undefined variable: LastBoost in /home/gbhoster/demons.gb-hoster.me/index.php on line 155
+[30-Jul-2019 14:38:08 Europe/Belgrade] PHP Notice:  Undefined index: boost in /home/gbhoster/demons.gb-hoster.me/index.php on line 133
+[30-Jul-2019 14:38:08 Europe/Belgrade] PHP Notice:  Undefined variable: LastBoost in /home/gbhoster/demons.gb-hoster.me/index.php on line 155
+[30-Jul-2019 14:38:27 Europe/Belgrade] PHP Notice:  Array to string conversion in /home/gbhoster/demons.gb-hoster.me/index.php on line 133
+[30-Jul-2019 14:38:27 Europe/Belgrade] PHP Notice:  Undefined variable: LastBoost in /home/gbhoster/demons.gb-hoster.me/index.php on line 155
+[30-Jul-2019 14:40:19 Europe/Belgrade] PHP Notice:  Array to string conversion in /home/gbhoster/demons.gb-hoster.me/index.php on line 138
+[30-Jul-2019 14:40:19 Europe/Belgrade] PHP Notice:  Array to string conversion in /home/gbhoster/demons.gb-hoster.me/index.php on line 138
+[30-Jul-2019 14:40:19 Europe/Belgrade] PHP Notice:  Array to string conversion in /home/gbhoster/demons.gb-hoster.me/index.php on line 138
+[30-Jul-2019 14:40:19 Europe/Belgrade] PHP Notice:  Array to string conversion in /home/gbhoster/demons.gb-hoster.me/index.php on line 138
+[30-Jul-2019 14:40:19 Europe/Belgrade] PHP Notice:  Array to string conversion in /home/gbhoster/demons.gb-hoster.me/index.php on line 138
+[30-Jul-2019 14:40:19 Europe/Belgrade] PHP Notice:  Array to string conversion in /home/gbhoster/demons.gb-hoster.me/index.php on line 138
+[30-Jul-2019 14:40:19 Europe/Belgrade] PHP Notice:  Array to string conversion in /home/gbhoster/demons.gb-hoster.me/index.php on line 138
+[30-Jul-2019 14:40:19 Europe/Belgrade] PHP Notice:  Array to string conversion in /home/gbhoster/demons.gb-hoster.me/index.php on line 138
+[30-Jul-2019 14:40:19 Europe/Belgrade] PHP Notice:  Array to string conversion in /home/gbhoster/demons.gb-hoster.me/index.php on line 138
+[30-Jul-2019 14:40:19 Europe/Belgrade] PHP Notice:  Array to string conversion in /home/gbhoster/demons.gb-hoster.me/index.php on line 138
+[30-Jul-2019 14:40:19 Europe/Belgrade] PHP Notice:  Array to string conversion in /home/gbhoster/demons.gb-hoster.me/index.php on line 138
+[30-Jul-2019 14:40:19 Europe/Belgrade] PHP Notice:  Array to string conversion in /home/gbhoster/demons.gb-hoster.me/index.php on line 138
+[30-Jul-2019 14:40:19 Europe/Belgrade] PHP Notice:  Array to string conversion in /home/gbhoster/demons.gb-hoster.me/index.php on line 138
+[30-Jul-2019 14:40:19 Europe/Belgrade] PHP Notice:  Array to string conversion in /home/gbhoster/demons.gb-hoster.me/index.php on line 138
+[30-Jul-2019 14:40:19 Europe/Belgrade] PHP Notice:  Array to string conversion in /home/gbhoster/demons.gb-hoster.me/index.php on line 138
+[30-Jul-2019 14:40:19 Europe/Belgrade] PHP Notice:  Array to string conversion in /home/gbhoster/demons.gb-hoster.me/index.php on line 138
+[30-Jul-2019 14:40:19 Europe/Belgrade] PHP Notice:  Array to string conversion in /home/gbhoster/demons.gb-hoster.me/index.php on line 138
+[30-Jul-2019 14:40:19 Europe/Belgrade] PHP Notice:  Array to string conversion in /home/gbhoster/demons.gb-hoster.me/index.php on line 138
+[30-Jul-2019 14:40:19 Europe/Belgrade] PHP Notice:  Array to string conversion in /home/gbhoster/demons.gb-hoster.me/index.php on line 138
+[30-Jul-2019 14:40:19 Europe/Belgrade] PHP Notice:  Array to string conversion in /home/gbhoster/demons.gb-hoster.me/index.php on line 138
+[30-Jul-2019 14:40:19 Europe/Belgrade] PHP Notice:  Array to string conversion in /home/gbhoster/demons.gb-hoster.me/index.php on line 138
+[30-Jul-2019 14:40:19 Europe/Belgrade] PHP Notice:  Array to string conversion in /home/gbhoster/demons.gb-hoster.me/index.php on line 138
+[30-Jul-2019 14:40:19 Europe/Belgrade] PHP Notice:  Array to string conversion in /home/gbhoster/demons.gb-hoster.me/index.php on line 138
+[30-Jul-2019 14:40:19 Europe/Belgrade] PHP Notice:  Array to string conversion in /home/gbhoster/demons.gb-hoster.me/index.php on line 138
+[30-Jul-2019 14:40:19 Europe/Belgrade] PHP Notice:  Array to string conversion in /home/gbhoster/demons.gb-hoster.me/index.php on line 138
+[30-Jul-2019 14:40:19 Europe/Belgrade] PHP Notice:  Array to string conversion in /home/gbhoster/demons.gb-hoster.me/index.php on line 138
+[30-Jul-2019 14:40:19 Europe/Belgrade] PHP Notice:  Array to string conversion in /home/gbhoster/demons.gb-hoster.me/index.php on line 138
+[30-Jul-2019 14:40:19 Europe/Belgrade] PHP Notice:  Array to string conversion in /home/gbhoster/demons.gb-hoster.me/index.php on line 141
+[30-Jul-2019 14:40:19 Europe/Belgrade] PHP Notice:  Undefined variable: LastBoost in /home/gbhoster/demons.gb-hoster.me/index.php on line 163
+[30-Jul-2019 14:41:30 Europe/Belgrade] PHP Notice:  Array to string conversion in /home/gbhoster/demons.gb-hoster.me/index.php on line 139
+[30-Jul-2019 14:41:30 Europe/Belgrade] PHP Notice:  Undefined variable: LastBoost in /home/gbhoster/demons.gb-hoster.me/index.php on line 161
+[30-Jul-2019 14:44:50 Europe/Belgrade] PHP Notice:  Undefined variable: LastBoost in /home/gbhoster/demons.gb-hoster.me/index.php on line 155
+[30-Jul-2019 22:13:23 Europe/Belgrade] PHP Notice:  Undefined variable: LastBoost in /home/gbhoster/demons.gb-hoster.me/index.php on line 165
+[30-Jul-2019 22:13:40 Europe/Belgrade] PHP Notice:  Undefined variable: LastBoost in /home/gbhoster/demons.gb-hoster.me/index.php on line 165
+[30-Jul-2019 22:13:46 Europe/Belgrade] PHP Notice:  Undefined variable: LastBoost in /home/gbhoster/demons.gb-hoster.me/index.php on line 165
+[30-Jul-2019 22:14:03 Europe/Belgrade] PHP Notice:  Undefined variable: LastBoost in /home/gbhoster/demons.gb-hoster.me/index.php on line 165
+[30-Jul-2019 22:24:24 Europe/Belgrade] PHP Notice:  Undefined variable: LastBoost in /home/gbhoster/demons.gb-hoster.me/index.php on line 165
+[30-Jul-2019 22:24:29 Europe/Belgrade] PHP Notice:  Undefined variable: LastBoost in /home/gbhoster/demons.gb-hoster.me/index.php on line 165
+[30-Jul-2019 22:24:36 Europe/Belgrade] PHP Notice:  Undefined variable: LastBoost in /home/gbhoster/demons.gb-hoster.me/index.php on line 165
+[30-Jul-2019 22:26:45 Europe/Belgrade] PHP Notice:  Undefined variable: LastBoost in /home/gbhoster/demons.gb-hoster.me/index.php on line 165
+[30-Jul-2019 22:27:14 Europe/Belgrade] PHP Notice:  Undefined variable: LastBoost in /home/gbhoster/demons.gb-hoster.me/index.php on line 165
+[30-Jul-2019 22:29:10 Europe/Belgrade] PHP Notice:  Undefined variable: LastBoost in /home/gbhoster/demons.gb-hoster.me/index.php on line 165
+[30-Jul-2019 22:29:50 Europe/Belgrade] PHP Notice:  Undefined variable: LastBoost in /home/gbhoster/demons.gb-hoster.me/index.php on line 168
+[30-Jul-2019 22:30:27 Europe/Belgrade] PHP Notice:  Undefined variable: LastBoost in /home/gbhoster/demons.gb-hoster.me/index.php on line 169
+[30-Jul-2019 22:35:41 Europe/Belgrade] PHP Notice:  Undefined index: user_login in /home/gbhoster/demons.gb-hoster.me/core/class/class.access.php on line 7
+[30-Jul-2019 22:35:41 Europe/Belgrade] PHP Notice:  Undefined variable: ServerInfo in /home/gbhoster/demons.gb-hoster.me/servers.php on line 154
+[30-Jul-2019 22:36:18 Europe/Belgrade] PHP Notice:  Undefined index: user_login in /home/gbhoster/demons.gb-hoster.me/core/class/class.access.php on line 7
+[30-Jul-2019 22:36:18 Europe/Belgrade] PHP Notice:  Undefined variable: ServerInfo in /home/gbhoster/demons.gb-hoster.me/servers.php on line 154
+[30-Jul-2019 22:36:18 Europe/Belgrade] PHP Notice:  Undefined index: user_login in /home/gbhoster/demons.gb-hoster.me/core/class/class.access.php on line 7
+[30-Jul-2019 22:36:18 Europe/Belgrade] PHP Notice:  Undefined variable: ServerInfo in /home/gbhoster/demons.gb-hoster.me/servers.php on line 154
+[30-Jul-2019 22:36:55 Europe/Belgrade] PHP Notice:  Use of undefined constant user_login - assumed 'user_login' in /home/gbhoster/demons.gb-hoster.me/core/class/class.access.php on line 7
+[30-Jul-2019 22:36:55 Europe/Belgrade] PHP Notice:  Undefined index: user_login in /home/gbhoster/demons.gb-hoster.me/core/class/class.access.php on line 7
+[30-Jul-2019 22:36:55 Europe/Belgrade] PHP Notice:  Undefined variable: ServerInfo in /home/gbhoster/demons.gb-hoster.me/servers.php on line 154
+[30-Jul-2019 22:37:26 Europe/Belgrade] PHP Notice:  Undefined variable: ServerInfo in /home/gbhoster/demons.gb-hoster.me/servers.php on line 154
+[10-Aug-2019 15:47:34 Europe/Belgrade] PHP Notice:  Undefined variable: players in /home/gbhoster/demons.gb-hoster.me/core/class/class.GTServerInfo.php on line 202

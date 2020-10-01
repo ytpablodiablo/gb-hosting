@@ -1,0 +1,903 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+* {
+	zoom: 100%!important;
+}
+
+body,html {
+	zoom: 100%!important;
+}
+
+body
+{
+	margin: 0;
+	padding: 0;
+	font-family: 'Montserrat', sans-serif;
+	background-color: rgba(0,0,0, 0.8);
+	color: #fff;
+	background-image: url(../images/background.jpg);
+	background-size: cover;
+}
+
+#container 
+{
+	width: 1024px;
+	padding: 0;
+	margin: 30px auto;
+}
+
+#container #navigacija 
+{
+	position: relative;
+	padding: 0;
+	margin: 0;
+}
+
+#container #navigacija ul 
+{
+	list-style: none;
+	position: relative;
+	background-image: linear-gradient(to right,#042a3c,#072839,#052b3e,#022c3e,#06293c,#082531,#05293c,#012e44);
+	border-top-right-radius: 5px;
+	border-top-left-radius: 5px;
+	margin-bottom: 0px;
+}
+
+#container #navigacija ul li 
+{
+	display: inline-block;
+	padding: 16px 22px;
+	font-weight: 600;
+}
+
+#container #navigacija ul li a
+{
+	color: #fff;
+	text-decoration: none;
+}
+
+#container #navigacija ul li a:hover
+{
+  color: white;
+  text-shadow:
+   -1px -1px 0 #007193,  
+    1px -1px 0 #007193,
+    -1px 1px 0 #007193,
+     1px 1px 0 #007193;
+     transition: 0.1s;
+}
+
+#container #linija 
+{
+	padding: 0;
+	margin: 0;
+	width: 100%;
+	height: 5px;
+	background: #3d5a25;
+}
+
+#container #centar
+{
+	background-image: linear-gradient(to right,#0e384e,#10394f,#0e374b,#0f394f,#0f384c);
+	width: 100%;
+	position: relative;
+	padding: 10px 0 10px 0;
+}
+
+#container #footer
+{
+	background-image: linear-gradient(to right,#042a3c,#072839,#052b3e,#022c3e,#06293c,#082531,#05293c,#012e44);
+	width: 100%;
+	padding: 1px 0;
+	position: relative;
+}
+
+#container #footer a
+{
+	text-decoration: none;
+	color: #fff;
+	font-size: small;
+}
+
+#container #footer a:hover
+{
+	color: white;
+ 	text-shadow:
+   		-1px -1px 0 #007193,  
+    	1px -1px 0 #007193,
+    	-1px 1px 0 #007193,
+    	 1px 1px 0 #007193;
+    transition: 0.1s;
+}
+
+#container #topplugini
+{
+	position: relative;
+	margin: 0 auto;
+	display: flex;
+	padding: 2px;
+	width: 95%;
+}
+
+#container #topplugini #top10plugina
+{
+	position: relative;
+	width: 50%;
+}
+
+#container #topplugini #tekdodati
+{
+	position: relative;
+	width: 50%;
+}
+
+#container #centar #obavestenja
+{
+	position: relative;
+	width: 560px;
+	box-sizing: border-box;
+	padding: 10px 25px;
+}
+
+#container #centar #obavestenja #naslov
+{
+	background-color: #4e7a13;
+	position: relative;
+	width: 100%;
+	padding: 10px 0;
+}
+
+#container #centar #obavestenja #content
+{
+	background-color: #06171f;
+	padding: 5px;
+}
+
+#container #centar #gb-hoster-statistike
+{
+	position: absolute;
+	right: 0;
+	top: 10px;
+	width: 500px;
+	padding: 10px 25px;
+	height: auto;
+	box-sizing: border-box;
+}
+
+#container #centar #gb-hoster-statistike #naslov
+{
+	background-color: #4e7a13;
+	position: relative;
+	width: 100%;
+	padding: 10px 0;
+}
+
+#container #centar #gb-hoster-statistike #content
+{
+	background-color: #06171f;
+	padding: 5px;
+}
+
+#container #centar #gb-hoster-statistike #content p 
+{
+	padding: 0;
+	margin: 0;
+	margin-top: -8px;
+	margin-left: 3%;
+}
+
+#container #centar #gb-hoster-statistike #content b 
+{
+	position: absolute;
+	right: 10%;
+}
+
+#container #centar #top10plugina #naslov
+{
+	background-color: #4e7a13;
+	position: relative;
+	width: 100%;
+	padding: 10px 0;
+}
+
+#container #centar #top10plugina #content
+{
+	background-color: #06171f;
+	padding: 5px;
+}
+
+#container #centar #top10plugina #content p 
+{
+	padding: 0;
+	margin: 0;
+	margin-top: -8px;
+	margin-left: 3%;
+}
+
+#container #centar #top10plugina #content b 
+{
+	position: absolute;
+	right: 10%;
+}
+
+#container #centar #tekdodati #naslov
+{
+	background-color: #4e7a13;
+	position: relative;
+	width: 100%;
+	padding: 10px 0;
+}
+
+#container #centar #tekdodati #content
+{
+	background-color: #06171f;
+	padding: 5px;
+}
+
+#container #centar #tekdodati #content p 
+{
+	padding: 0;
+	margin: 0;
+	margin-top: -8px;
+	margin-left: 3%;
+}
+
+#container #centar #tekdodati #content b 
+{
+	position: absolute;
+	right: 10%;
+}
+
+#header 
+{
+	position: relative;
+	margin: auto;
+	margin-top: 10px;
+	margin-bottom: -15px;
+	width: 1024px;
+	padding: 0;
+}
+
+#header #logo
+{
+	position: relative;
+	width: 50%;
+	height: 115px;
+}
+
+#header #login 
+{
+	position: absolute;
+	right: 0;
+	top: 10px;
+	width: 30%;
+	box-sizing: border-box;
+}
+
+#header #login #naslov
+{
+	background-color: #4e7a13;
+	position: relative;
+	width: 100%;
+	padding: 5px 0;
+}
+
+#header #login #content
+{
+	background-color: #06171f;
+}
+
+#header #login a 
+{
+	color: #4e7a13;
+    font-weight: bold;
+    text-decoration: none;
+    position: absolute;
+	right: 10px;
+	padding: 14px 16px;
+}
+
+#header #login a:hover
+{
+	text-decoration: underline;
+}
+
+.button 
+{
+    background: #000;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 11px;
+    font-weight: bold;
+    color: #4e7a13;
+    padding: 3px 15px 3px 15px;
+    line-height: 21px;
+    border: 1px solid #4e7a13;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 17px;
+    cursor: pointer;
+}
+
+textarea,input,select
+{
+	font-weight: normal;
+    font-size: 11px;
+    line-height: 16px;
+    border: 1px solid #4e7a13;
+    color: #999;
+    background: #000;
+}
+
+textarea,input,select:focus
+{
+	color: #fff;
+}
+
+.input
+{
+	outline: 0;
+	border: 1px solid #4e7a13;
+	width: 40%;
+	padding: 2px 5px;
+	margin: 0.6em 0;
+}
+
+.success {
+    position: fixed;
+    top: 0px;
+    background: #5CB85C;
+    border-bottom: 1px solid #000;
+    text-align: center;
+    width: 100%;
+    padding: 15px 20px;
+    font-family: Tahoma, Verdana, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 17px;
+    line-height: 16px;
+    z-index: 1;
+    color: #fff;
+    -webkit-transition: success 5s forwards; 
+    transition: success 5s forwards;
+}
+
+@keyframes success {
+    99% {opacity: 0;}
+    100% {opacity: 1;}
+}
+
+.error {
+    position: fixed;
+    top: 0px;
+    background: red;
+    border-bottom: 1px solid #000;
+    display: block;
+    text-align: center;
+    width: 100%;
+    padding: 15px 20px;
+    font-family: Tahoma, Verdana, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 17px;
+    line-height: 16px;
+    z-index: 1;
+    color: #fff;
+}
+
+#container #podpanel {
+	position: relative;
+	width: 100%;
+	background-color: #06171f;
+}
+
+#container #podpanel ul {
+	list-style: none;
+	position: relative;
+	margin: 0;
+	padding: 0;
+}
+
+#container #podpanel ul li {
+	display: inline-block;
+	padding: 8px 5px;
+	margin: 0 10px;
+	line-height: 16px;
+}
+
+#container #podpanel ul li:nth-child(1) {
+	margin-left: 25px;
+}
+
+#container #podpanel ul li a
+{
+	text-decoration: none;
+	color: #fff;
+	font-weight: bold;
+	font-size: x-small;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 3px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px grey; 
+  border-radius: 2px;
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #4e7a13; 
+  border-radius: 2px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  cursor: pointer;
+}
+
+.fas, .far 
+{
+	color: #fff;
+	margin: 0 2px;
+	font-size: 11.5px;
+}
+
+table {
+    border: 1px solid #fff;
+    width: 90%;
+    clear: both;
+	border-collapse: collapse;
+    border-spacing: 0;
+}
+
+tr:nth-child(even){background-color: #06263f;}
+
+
+table tr th {
+    font-family: Tahoma, Verdana, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 16px;
+    text-align: left;
+    padding: 10px 5px;
+    border-bottom: 1px solid #fff;
+    color: #fff;
+    background: #4e7a13;
+}
+
+td {
+	padding: 8px 5px;
+}
+
+td:nth-child(1) {
+	padding: 8px 5px;
+}
+
+table a
+{
+	color:#fff !important;
+	font-weight: 600;
+	cursor: pointer;
+	text-decoration: none;
+	font-family: sans-serif;
+}
+
+#banner {
+	position: relative;
+	width: 100%;
+	height: 200px;
+}
+
+#banner img {
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	background-size: cover;
+}
+
+#avatar {
+	position: relative;
+	width: 128px;
+	height: 128px;
+	border: 3px solid #fff;
+	border-radius: 50%;
+	margin-left: 40px;
+	margin-top: -11% !important;
+}
+
+#avatar img {
+	position: absolute;
+	top: 0;
+	left: 0;
+	border-radius: 50%;
+	width: 128px;
+	height: 128px;
+	overflow: hidden;
+}
+
+#container #centar #informacije_korisnika
+{
+	position: relative;
+	width: 450px;
+	box-sizing: border-box;
+	padding: 10px 5px;
+}
+
+#container #centar #informacije_korisnika #naslov
+{
+	background-color: #4e7a13;
+	position: relative;
+	width: 100%;
+	padding: 10px 0;
+}
+
+#container #centar #informacije_korisnika #content
+{
+	background-color: #06171f;
+	padding: 5px;
+}
+
+#container #centar #informacije_korisnika #content p
+{
+	padding: 0;
+	margin: 0;
+	margin-top: 10px;
+	margin-bottom: -15px;
+	margin-left: 3%;
+}
+
+#container #centar #informacije_korisnika #content b
+{
+	position: absolute;
+	right: 10%;
+}
+
+#container #centar #objave
+{
+	position: relative;
+	width: 550px;
+	box-sizing: border-box;
+	padding: 10px 5px;
+}
+
+#container #centar #objave #naslov
+{
+	background-color: #4e7a13;
+	position: relative;
+	width: 100%;
+	padding: 10px 0;
+}
+
+#container #centar #objave #content
+{
+	background-color: #06171f;
+	padding: 5px;
+}
+
+#container #centar #banner .settings
+{
+	position: absolute;
+	right: 5px;
+	top: 0;
+	display: none;
+}
+
+#container #centar #banner .b_set:hover > .settings
+{
+	cursor: pointer;
+	display: block;
+}
+
+#container #centar #banner .b_set:hover
+{
+	width:auto;
+	height:45px;
+	padding-right: 40px;
+	padding-left: 5px;
+	background: rgba(0,0,0,.5); 
+	transition: 0.5s;
+}
+
+#camera {
+	font-size: 40px;
+	color: #000 !important;
+	z-index: 1;
+	position: absolute;
+	top: 15px;
+	right: 15px;
+	display: block;
+	text-shadow:    -2px -2px 0 #fff,  
+    2px -2px 0 #fff,
+    -2px 2px 0 #fff,
+     2px 2px 0 #fff;
+	opacity: 0.3;
+	transition: 0.5s;
+	cursor: pointer;
+}
+
+#camera:hover
+{
+	opacity: 0.777;
+}
+
+dl {
+	position: relative;
+    margin-left: 15px;
+    padding-left: 50px;
+    padding-bottom: 10px;
+    margin-bottom: 35px;
+    font-size: 12.5px;
+}
+
+dl dt {
+	font-size: 24px;
+	font-weight: 600;
+	margin-left: 17px;
+}
+
+dl img {
+	width: 64px;
+	height: 64px;
+	background-size: cover;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+.support-actions {
+	position: absolute;
+    right: 10px;
+    top: 0px;
+}
+
+.support-actions li {
+    list-style: none;
+    margin-bottom: 7px;
+}
+
+.support-actions a {
+    width: 146px;
+    height: 39px;
+    font-family: Tahoma, Verdana, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 16px;
+    line-height: 39px;
+    display: block;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #fff;
+    background-color: rgba(0,0,0,0.4);
+    border: 1px solid #2888bb;
+    border-radius: 5px;
+}
+
+#tiket_odgovori {
+	position: absolute;
+	top: 10%;
+	right: 5%;
+	border: 1px solid white;
+	padding: 10px 15px 10px 15px;
+}
+
+#admin-navigation {
+	position: relative;
+}
+
+#admin-navigation ul {
+  position: relative;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 300px;
+  padding-top: 3%;
+  min-height: 500px;
+  background-color: #06171f;
+}
+
+#admin-navigation li a .fas {
+	padding: 10px 16px;
+	font-size: 15px;
+	width: 32px;
+}
+
+#admin-navigation li a {
+  display: block;
+  font-weight: bold;
+  color: #fff;
+  padding-left: 10px;
+  padding: 10px 16px;
+  text-decoration: none;
+}
+
+#admin-navigation li a:hover {
+	background-color: darkcyan;
+}
+
+#admin-info {
+	position: absolute;
+	top: 0;
+	left: 300px;
+	width: calc(100% - 300px);
+}
+
+#container #centar #admin_info
+{
+	padding: 10px 25px;
+	box-sizing: border-box;
+}
+
+#container #centar #admin_info #naslov
+{
+	background-color: #4e7a13;
+	position: relative;
+	width: 100%;
+	padding: 10px 0;
+}
+
+#container #centar #admin_info #content
+{
+	background-color: #06171f;
+  	width: 100%;
+  	max-height: 439px;
+  	overflow-x: hidden;
+  	position: relative;
+}
+
+.admin-column {
+  float: left;
+  width: 47%;
+  padding: 10px;
+  height: auto;
+  word-break: break-all;
+}
+
+#container #centar #admin_info #content:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+#admin-users-info {
+	margin: auto;
+	position: relative;
+	border-bottom: 1px solid aqua;
+	padding: 8px 12px;
+	width: 90%;
+	padding-top: 13px; 
+}
+
+#admin-users-info #admin-users-info-img {
+	position: absolute;
+	width: auto;
+	top: 0;
+	left: 0;
+	padding: 5px;
+	height: 100%;
+}
+
+#admin-users-info #admin-users-info-img img {
+	border-radius: 50%;
+	width: 48px;
+	height: 48px;
+}
+
+#admin-users-info b {
+	margin-left: 9%;
+}
+
+#admin-users-info i {
+	font-size: xx-small;
+	color: #ccc;
+	margin-left: 9%;
+}
+
+#admin-users-info-action {
+	position: absolute;
+	top: 0;
+	right: 0;
+}
+
+#admin-users-info-action a {
+	display: inline-block;
+	padding: 3px 7px;
+	line-height: 58px;
+}
+
+#admin-users-info-action a .fas {
+	font-size: 17px;
+}
+
+
+
+.pagination {
+  padding: 30px 0;
+  display: inline-block;
+}
+
+.pagination a {
+  color: white;
+  float: left;
+  padding: 8px 16px;
+  text-decoration: none;
+  border: 1px solid #ddd;
+}
+
+.pagination a.active {
+  background-color: #4CAF50;
+  color: white;
+  border: 1px solid #4CAF50;
+}
+
+.pagination a:hover:not(.active) {background-color: darkcyan;}
+
+.pagination a:first-child {
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+
+.pagination a:last-child {
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+.toplists {
+	position: relative;
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+
+.toplists small {
+	padding: 14px 16px;
+}
+
+.toplists li {
+	padding: 10px 15px;
+}
+
+.toplists a {
+	text-decoration: none;
+	color: #fff;
+	font-weight: bold;
+}
+
+.search {
+  position: absolute;
+  top: 5px;
+  right: 5%;
+  display: flex;
+}
+
+.searchTerm {
+  width: 400px;
+  border: 3px solid #00B4CC;
+  border-right: none;
+  padding: 15px;
+  height: 20px;
+  border-radius: 5px 0 0 5px;
+  outline: none;
+  color: #9DBFAF;
+  font-size: 15px;
+}
+
+.searchTerm:focus{
+  color: #00B4CC;
+}
+
+.searchButton {
+  width: 40px;
+  height: 36px;
+  border: 1px solid #00B4CC;
+  background: #00B4CC;
+  text-align: center;
+  color: #fff;
+  border-radius: 0 5px 5px 0;
+  cursor: pointer;
+  font-size: 20px;
+}

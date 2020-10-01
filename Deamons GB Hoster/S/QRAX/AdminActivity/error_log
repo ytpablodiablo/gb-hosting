@@ -1,0 +1,4 @@
+[15-Apr-2019 14:16:51 Europe/Belgrade] PHP Warning:  ftp_get(): I won't open a connection to 205.185.112.50 (only to 162.244.92.149) in /home/gbhoster/deamons.gb-hoster.me/AdminActivity/AdminActivity.php on line 33
+[15-Apr-2019 14:16:51 Europe/Belgrade] PHP Warning:  fopen(./AdminActivity.tmp): failed to open stream: No such file or directory in /home/gbhoster/deamons.gb-hoster.me/AdminActivity/AdminActivity.php on line 36
+[15-Apr-2019 14:16:53 Europe/Belgrade] PHP Warning:  ftp_get(): I won't open a connection to 205.185.112.50 (only to 162.244.92.149) in /home/gbhoster/deamons.gb-hoster.me/AdminActivity/AdminActivity.php on line 33
+[15-Apr-2019 14:16:54 Europe/Belgrade] PHP Warning:  fopen(./AdminActivity.tmp): failed to open stream: No such file or directory in /home/gbhoster/deamons.gb-hoster.me/AdminActivity/AdminActivity.php on line 36

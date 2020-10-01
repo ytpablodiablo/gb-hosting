@@ -1,0 +1,58 @@
+/*
+    Theme Name: PixieFreak
+    Theme URI: http://themes.pixiesquad.com
+    Description: PixieFreak - is a theme meant for eSports organizations / teams / gaming clans. The theme is built by the latest design standards in this industry, which brings the elite/premium feeling for the end user.
+    Version: 1.0.95
+    Author: PixieSquad.com | Shape The Gaming
+    Author URI: http://pixiesquad.com
+    License: PixieSquad Themes. All rights reserved.
+    License URI: https://themeforest.net/user/pixiesquad
+    Tags: sticky-post, featured-images, editor-style, custom-colors, custom-header, custom-background, right-sidebar, translation-ready, theme-options
+    Text Domain: pixiefreak
+*/
+
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+# Alignment
+# Elements
+# Font Adjustment
+--------------------------------------------------------------*/
+
+/* Adjustment */
+.gallery-caption {
+    font-weight: normal;
+}
+
+.sticky {
+    font-weight: normal;
+}
+
+/* Alignment */
+.aligncenter {
+    text-align: center;
+}
+
+.alignleft {
+    text-align: left;
+}
+
+.alignright {
+    text-align: right;
+}
+
+.bypostauthor {
+    color: rgba(105, 49, 249, 1);
+}
+
+.screen-reader-text {
+    display: none;
+}
+
+.wp-caption-text {
+    color: rgba(105, 49, 249, 1);
+}
+
+.wp-caption {
+    max-width: 100%;
+}

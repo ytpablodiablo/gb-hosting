@@ -1,0 +1,6 @@
+<FilesMatch "\.(amxx|zip|rar)$">
+Order Allow,Deny
+Deny from all
+</FilesMatch>
+
+php_value date.timezone 'Europe/Belgrade'

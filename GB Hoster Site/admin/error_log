@@ -1,0 +1,17 @@
+[11-Aug-2019 20:48:11 Europe/Belgrade] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/gbhoster/nanana.gb-hoster.me/admin/komentar.php on line 9
+[11-Aug-2019 23:25:05 Europe/Belgrade] PHP Notice:  Use of undefined constant CRYPT_KEY - assumed 'CRYPT_KEY' in /home/gbhoster/nanana.gb-hoster.me/admin/serverprocess.php on line 1007
+[11-Aug-2019 23:25:05 Europe/Belgrade] PHP Notice:  Use of undefined constant ip - assumed 'ip' in /home/gbhoster/nanana.gb-hoster.me/admin/serverprocess.php on line 1012
+[11-Aug-2019 23:29:16 Europe/Belgrade] PHP Notice:  Use of undefined constant CRYPT_KEY - assumed 'CRYPT_KEY' in /home/gbhoster/nanana.gb-hoster.me/admin/serverprocess.php on line 323
+[11-Aug-2019 23:29:16 Europe/Belgrade] PHP Notice:  Use of undefined constant user_id - assumed 'user_id' in /home/gbhoster/nanana.gb-hoster.me/admin/serverprocess.php on line 329
+[11-Aug-2019 23:29:30 Europe/Belgrade] PHP Notice:  Use of undefined constant fname - assumed 'fname' in /home/gbhoster/nanana.gb-hoster.me/admin/serverprocess.php on line 356
+[11-Aug-2019 23:31:11 Europe/Belgrade] PHP Notice:  Use of undefined constant CRYPT_KEY - assumed 'CRYPT_KEY' in /home/gbhoster/nanana.gb-hoster.me/admin/serverprocess.php on line 323
+[11-Aug-2019 23:31:11 Europe/Belgrade] PHP Notice:  Use of undefined constant user_id - assumed 'user_id' in /home/gbhoster/nanana.gb-hoster.me/admin/serverprocess.php on line 329
+[11-Aug-2019 23:31:25 Europe/Belgrade] PHP Notice:  Use of undefined constant fname - assumed 'fname' in /home/gbhoster/nanana.gb-hoster.me/admin/serverprocess.php on line 356
+[11-Aug-2019 23:32:27 Europe/Belgrade] PHP Notice:  Use of undefined constant CRYPT_KEY - assumed 'CRYPT_KEY' in /home/gbhoster/nanana.gb-hoster.me/admin/serverprocess.php on line 47
+[11-Aug-2019 23:32:27 Europe/Belgrade] PHP Notice:  Use of undefined constant user_id - assumed 'user_id' in /home/gbhoster/nanana.gb-hoster.me/admin/serverprocess.php on line 54
+[11-Aug-2019 23:32:32 Europe/Belgrade] PHP Notice:  Use of undefined constant fname - assumed 'fname' in /home/gbhoster/nanana.gb-hoster.me/admin/serverprocess.php on line 222
+[12-Aug-2019 13:18:12 Europe/Belgrade] PHP Notice:  Undefined index: mod in /home/gbhoster/nanana.gb-hoster.me/admin/serverprocess.php on line 919
+[12-Aug-2019 13:18:12 Europe/Belgrade] PHP Notice:  Use of undefined constant CRYPT_KEY - assumed 'CRYPT_KEY' in /home/gbhoster/nanana.gb-hoster.me/admin/serverprocess.php on line 1007
+[12-Aug-2019 13:18:12 Europe/Belgrade] PHP Notice:  Use of undefined constant ip - assumed 'ip' in /home/gbhoster/nanana.gb-hoster.me/admin/serverprocess.php on line 1012
+[12-Aug-2019 13:24:01 Europe/Belgrade] PHP Notice:  Use of undefined constant CRYPT_KEY - assumed 'CRYPT_KEY' in /home/gbhoster/nanana.gb-hoster.me/admin/serverprocess.php on line 1007
+[12-Aug-2019 13:24:01 Europe/Belgrade] PHP Notice:  Use of undefined constant ip - assumed 'ip' in /home/gbhoster/nanana.gb-hoster.me/admin/serverprocess.php on line 1012

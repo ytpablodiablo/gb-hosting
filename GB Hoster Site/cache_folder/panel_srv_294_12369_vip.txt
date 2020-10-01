@@ -1,0 +1,29 @@
+html>
+<head>
+<style type="text/css">
+body	{
+	background-color: #000000;
+	font-family:Verdana,Tahoma;
+		}
+</style>
+	<meta http-equiv="Content-Type" content="text/html; charset=windows-1257">
+</head>
+<font size="2" color="#e0a518"><b><center>What u get when u are VIP?</center></b></font><br />
+<font size="1" color="#c0c0ff">
+<UL>
+<LI TYPE=square>You get Free nades each round. (HE,2FB,SG)</LI><br>
+<LI TYPE=square>Free Armor+Helm.</LI><br>
+<LI TYPE=square>You Get 500$ per kill and per HS 800$.</LI><br>
+<LI TYPE=square>You Get 15HP per kill and per HS 30HP.</LI><br>
+<LI TYPE=square>You See bullet damage at real time.</LI><br>
+<LI TYPE=square>Only VIP can buy Sniper's. (Like AWP).</LI><br>
+<LI TYPE=square>Write /vips u will see VIP's online..</LI><br>
+<LI TYPE=square>U will can use Admin Chat.</UL><br>
+<LI TYPE=square>Slot reservation.</UL><br>
+<LI TYPE=square>Only VIP's from 3round will see free gun menu</UL><br>
+<font size="1" color=#00c000><strong>What Price of VIP?</strong></font><br>
+VIP price: 1xBoost.<br>
+Write ur contact program: <font color=#FF6600>Id here of contacts</font><br><br />
+<font size="2" color="#ffffff"><strong>VIP by Dunno</strong></font><br />
+</body>
+</html>

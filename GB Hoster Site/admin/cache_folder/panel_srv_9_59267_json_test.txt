@@ -1,0 +1,1 @@
+L 10/10/2019 - 19:58:35: Log file started (file "cstrike/addons/amxmodx/logs/json_test.txt") (game "cstrike") (amx "1.8.2")

@@ -1,0 +1,322 @@
+[en]
+ML_SNIPERMAN			=	Sniperman
+ML_MARINE			=	Marine
+ML_PRO_SHOOTER			=	Pro Shooter
+ML_MACHINEGUN_MAN		=	Machinegun Man
+ML_FIRE_SUPPORT			=	Fire Support
+ML_MINER			=	Miner
+ML_DEMOLITIONS			=	Demolitions
+ML_RAMBO			=	Rambo
+ML_PARTISAN			=	Partisan
+ML_GUNNER			=	Gunner
+ML_REBEL			=	Rebel
+ML_SWAT				=	S.W.A.T
+ML_GERMAN_SHOOTER		=	German Shooter
+ML_ARMAGEDDON			=	Armageddon
+ML_TERMINATOR			=	Terminator
+ML_KURWA			=	Kurwa
+ML_PRO_SOLDIER			=	Pro Soldier
+ML_CRYSIS			=	Crysis
+ML_PRO_SHOOTER2			=	Proffesional Shooter
+ML_FBI				=	FBI Agent
+ML_HITMAN			=	Hitman
+ML_THIEF			=	Thief
+ML_BAD_BOY			=	Bad Boy
+ML_CRANK			=	Crank
+ML_KILLER			=	Killer
+	
+ML_ASSASSIN			=	Assassin
+ML_PRO_SWAT			=	Pro Swat
+ML_GENERAL			=	General
+ML_STALKER			=	Stalker
+ML_CADET			=	Cadet
+ML_COMRADE_TITO			=	Comrade Tito
+ML_PRO_MINER			=	Pro Miner
+ML_NINJA			=	Ninja
+ML_ADMIRAL			=	Admiral
+ML_MONSTER			=	Monster
+	
+ML_HUNTER			=	Hunter
+ML_AL_CAPONE			=	Al Capone
+ML_INDIAN			=	Indian
+ML_BLADE			=	Blade
+ML_VIN_DIESEL			=	Vin Diesel
+ML_JASON_STATHAM		=	Jason Statham
+ML_DESTROYER			=	Destroyer
+ML_WARIOR			=	Warior
+ML_BIN_LADEN			=	Bin Laden
+ML_CHOUKER			=	Chouker
+
+ML_IRON_MAN			=	Iron Man
+ML_PRO_NINJA			=	Pro Ninja
+ML_ROBIN_HOOD			=	Robin Hood
+ML_WOLVERINE			=	Wolverine
+ML_DEADPOOL			=	Dead Pool
+ML_ENGENEER			=	Engeneer
+ML_REVENANT			=	Revenant
+ML_OFFICER			=	Officer
+ML_CAMPER_MAESTRO		=	Camper Maestro
+ML_TELEPORTER			=	Teleporter
+ML_HERFEST			=	Herfest
+
+ML_JUMPER			=	Jumper
+ML_GHOST			=	Ghost
+ML_DROPPER			=	Dropper
+
+ML_D_SNIPERMAN			=	Has r1/3y chances for instant kill with AWP. 
+ML_D_MARINE			=	Has instant kill with knife.
+ML_D_PRO_SHOOTER		=	Has No Recoil.
+ML_D_MACHINEGUN_MAN		=	Has all bombs and resistance to explosions.
+ML_D_FIRE_SUPPORT		=	Has r2y rockets.
+ML_D_MINER			=	Has r5y mines.
+ML_D_DEMOLITIONS		=	Has resistance to first r3y bullets per spawn.
+ML_D_RAMBO			=	For every kill gets r+20y HP.
+ML_D_PARTISAN			=	None.
+ML_D_GUNNER			=	Has r2y rockets.
+ML_D_REBEL			=	Has resistance to knife.^nHas r1/3y chances to blind the enemy while shooting at him.
+ML_D_SWAT			=	Has resistance to explosions and knife.
+ML_D_GERMAN_SHOOTER		=	Has r+10%%y damage with AK-47.
+ML_D_ARMAGEDDON			=	Has r2y dynamites.
+ML_D_TERMINATOR			=	Has r3y dynamites.
+ML_D_KURWA			=	Has Jet Pack and resistance to explosions.
+ML_D_PRO_SOLDIER		=	Has r1/3y chances to respawn after death.
+ML_D_CRYSIS			=	Has r3y rockets.
+ML_D_PRO_SHOOTER2		=	Resistance to Head Shots.
+ML_D_FBI			=	Has Shield.
+ML_D_HITMAN			=	Can pickup weapons from ground.
+ML_D_THIEF			=	Gets r+5000$y every round.
+ML_D_BAD_BOY			=	Invisible while crouching.
+ML_D_CRANK			=	Has Unlimited Clip.
+ML_D_KILLER			=	Resistant to knife.
+	
+ML_D_ASSASSIN			=	Has instant kill with knife and invisibility while holding it.^nHas custom knife model.
+ML_D_PRO_SWAT			=	Has r1/4y chances for instant kill with M4A1.^nResistant to knife.
+ML_D_GENERAL			=	Has r1/5y chances for instant kill with Famas.^nHas r3y dynamites.
+ML_D_STALKER			=	Has instant kill with AWP and r6y dynamites.
+ML_D_CADET			=	Has r1/3y chances for instant kill with USP.^nResistant to explosions.
+ML_D_COMRADE_TITO		=	Has resistance to first r3y bullets per spawn.^nHas ability to see invisible players (XRay).
+ML_D_PRO_MINER			=	Has r1/6y chances for instant kill with P90.^nHas r6y mines.
+ML_D_NINJA			=	Inviisble while crouching.
+ML_D_ADMIRAL			=	Has r1/6y chances for instant kill with AUG.^nHas r3y rockets.
+ML_D_MONSTER			=	Has r+80%%y damage with M3 and looks like and enemy.
+	
+ML_D_HUNTER			=	Has r1/6y chances for instant kill with M4A1 and AK-47^nHas No Recoil.
+ML_D_AL_CAPONE			=	Has r1/6y chances for instant kill with MAC-10.^nHas instant kill with Knife.^nHas resistance to knife.
+ML_D_INDIAN			=	Has instant kill with Bow and invisibility while crouching.
+ML_D_BLADE			=	Has instant kill with Katana.^nHas r1/4y chances for instant kill with Dual Elites and UMP-45.^nHas custom Dual Elites model.
+ML_D_VIN_DIESEL			=	Has r1/4y chances for instant kill with USP and Five-Seven.^nHas resistance to first r3y bullets per spawn.^nResistant to knife.
+ML_D_JASON_STATHAM		=	Has r1/5y chances for instant kill with CrossBow.^nGets r+50y HP for every kill.
+ML_D_DESTROYER			=	Has r1/6y chances for instant kill with AK-47 and r6y dynamites.
+ML_D_WARIOR			=	Has r1/5y chances for instant kill with UMP-45, instant kill with HE.^nHas Jet Pack and resistance to knife.
+ML_D_BIN_LADEN			=	Has r1/6y chances for instant kill with Galil.^nLooks like enemy.^nHas r5y rockets.^nHas ability to see invisible players (XRay).
+ML_D_CHOUKER			=	Has r1/7y chances for instant kill with MAC-10.^nHas instant kill with knife and r3y dynamites.^nInvisible while crouching.
+ML_D_MECHANIC			=	Has r1/7y chances for instant kill with XM1014 and r1/3y with M3.^nHas Jet Pack i r3y mines.
+	
+ML_D_IRON_MAN			=	Has r1/12y chances for instant kill with MP5 and Super Jet Pack.^nHas resistance to first r3y bullets per spawn.^nHas custom player model.
+ML_D_PRO_NINJA			=	Has instant kill with Katana and invisibility while holding it.^nCan climb up a wall by holding button rEy.
+ML_D_ROBIN_HOOD			=	Has instant kill with Bow and resistance to knife.^nHas ability to see invisible players.
+ML_D_WOLVERINE			=	Has Claws which activates by button rEy.^nWhile using them he is invisible and has lower gravity.^nAlso has instant kill with them.
+ML_D_DEADPOOL			=	Has r1/8y chances for instant kill with MP5.^nHas r1/4y chances for instant kill with Dual Elite.^nHas instant kill with Katana and Jet Pack.
+ML_D_ENGENEER			=	Has r1/7y chances for instant kill with AK-47.^nHas r2y Sentry guns (To use them press button rEy).^nHas Double Jump.
+ML_D_REVENANT			=	Has r1/8y chances for instant kill with M249.^nHas ability to see invisible players (XRay).^nHas instant kill with HE.^nHas r1/6y chances for respawn.
+ML_D_OFFICER			=	Has r1/6y chances for instant kill with TMP.^nHas r1/3y chance to blind the enemy while shooting at him.^nHas resistance to knife.
+ML_D_CAMPER_MAESTRO		=	Has instant kill with AWP and invisibility while crouching.
+ML_D_TELEPORTER			=	Has r1/4y chances for instant kill with M4A1.^nHas instant kill with knife and HE.^nChan teleport every r5y secounds.
+ML_D_HERFEST			=	When press button rEy makes bunch fire explosions around self, has No Recoil and Jet Pack.
+	
+ML_D_JUMPER			=	Has Double Jump and Jet Pack.
+ML_D_GHOST			=	Has instant kill with AWP and Knife.
+ML_D_DROPPER			=	Has r1/3y chances to make the opponent to drop his weapon while shooting at him.
+
+ML_FREE_CLASSES 		=	y[Freey]wClasses
+ML_PREMIUM_CLASSES 		=	y[rPremiumy] w Classes
+ML_E_PREMIUM_CLASSES 		=	y[rExtra Premiumy] wClasses
+ML_SUPER_CLASSES 		=	y[rSupery] wClasses
+ML_VIP_CLASSES 			=	y[rVIPy] wClasses
+
+ML_NO_POWERS			=	You have no powers left!
+ML_WAIT_FOR			=	You must wait for %.2f secounds to use your power again!
+ML_NO_PREDATOR_MODE		=	You can use Predator Mode next round again!
+ML_NO_MADNES			=	You can use Madnes next round again!
+ML_MADNEX_TURNED_OFF		=	Madnes turned off!
+ML_TELEPORT_AVALIABLE		=	You can use Teleport now!
+
+ML_ROCKETS			=	Rockets
+ML_MED_KITS			=	Med Kits
+ML_POISON_KITS			=	Poison Kits
+ML_DYNAMITES			=	Dynamites
+ML_MINES			=	Mines
+ML_LIGHTNINGS			=	Lightnings
+ML_AIR_STRIKES			=	Air Strikes
+ML_FROSTINGS			=	Frostings
+ML_BURNINGS			=	Napalm Attacks
+ML_MAGNETS			=	Magnets
+
+ML_MAGNETO_IS_PULLING		=	You are being pulled by the Magneto.
+
+ML_TOO_CLOSE_TO_SPAWN		=	You are too close to the base!
+ML_MINE_DOORS			=	You can not place mines near doors!
+ML_MINE_NARROW			=	You can not place mines near narrow passages.
+ML_CAN_NOT_DAMAGE_SPAWN_PROT	=	You can not damage players with spawn protection!
+
+[sr]
+ML_SNIPERMAN			=	Snajperista
+ML_MARINE			=	Marinac
+ML_PRO_SHOOTER			=	Pro Strelac
+ML_MACHINEGUN_MAN		=	Mitraljezac
+ML_FIRE_SUPPORT			=	Vatrena Podrska
+ML_MINER			=	Miner
+ML_DEMOLITIONS			=	Demolitions
+ML_RAMBO			=	Rambo
+ML_PARTISAN			=	Partizan
+ML_GUNNER			=	Gunner
+ML_REBEL			=	Pobunjenik
+ML_SWAT				=	S.W.A.T
+ML_GERMAN_SHOOTER		=	Nemacki Strelac
+ML_ARMAGEDDON			=	Armageddon
+ML_TERMINATOR			=	Terminator
+ML_KURWA			=	Kurva
+ML_PRO_SOLDIER			=	Pro Vojnik
+ML_CRYSIS			=	Crysis
+ML_PRO_SHOOTER2			=	Profesionalni Strelac
+ML_FBI				=	FBI Agent
+ML_HITMAN			=	Hitman
+ML_THIEF			=	Lopov
+ML_BAD_BOY			=	Zajebani Decko
+ML_CRANK			=	Crank
+ML_KILLER			=	Ubica
+	
+ML_ASSASSIN			=	Assassin
+ML_PRO_SWAT			=	Pro Swat
+ML_GENERAL			=	General
+ML_STALKER			=	Stalker
+ML_CADET			=	Kadet
+ML_COMRADE_TITO			=	Drug Tito
+ML_PRO_MINER			=	Pro Miner
+ML_NINJA			=	Nindza
+ML_ADMIRAL			=	Admiral
+ML_MONSTER			=	Cudoviste
+	
+ML_HUNTER			=	Lovac
+ML_AL_CAPONE			=	Al Kapone
+ML_INDIAN			=	Indijanac
+ML_BLADE			=	Blade
+ML_VIN_DIESEL			=	Vin Diesel
+ML_JASON_STATHAM		=	Jason Statham
+ML_DESTROYER			=	Razarac
+ML_WARIOR			=	Ratnik
+ML_BIN_LADEN			=	Bin Laden
+ML_CHOUKER			=	Chouker
+ML_MECHANIC			=	Mehanicar
+
+ML_IRON_MAN			=	Gvodzeni Covek
+ML_PRO_NINJA			=	Pro Nindza
+ML_ROBIN_HOOD			=	Robin Hud
+ML_WOLVERINE			=	Vulverin
+ML_DEADPOOL			=	Dead Pool
+ML_ENGENEER			=	Inzenjer
+ML_REVENANT			=	Revenant
+ML_OFFICER			=	Oficir
+ML_CAMPER_MAESTRO		=	Kamper Maestro
+ML_TELEPORTER			=	Teleporter
+ML_HERFEST			=	Herfest
+
+ML_JUMPER			=	Skakac
+ML_GHOST			=	Duh
+ML_DROPPER			=	Dropper
+
+ML_D_SNIPERMAN			=	Ima r1/3y sansi za ubistvo iz prve sa AWP. 
+ML_D_MARINE			=	Ubija iz prve sa nozem.
+ML_D_PRO_SHOOTER		=	Puska mu ne trza kada puca.
+ML_D_MACHINEGUN_MAN		=	Ima sve bombe i otporan je na eksplozije.
+ML_D_FIRE_SUPPORT		=	Ima r2y rakete.
+ML_D_MINER			=	Ima r5y mina.
+ML_D_DEMOLITIONS		=	Ima otpornost na prva r3y metka po spawnu.
+ML_D_RAMBO			=	Za svako ubistvo dobija r+20y energije.
+ML_D_PARTISAN			=	Nema.
+ML_D_GUNNER			=	Ima r2y rakete.
+ML_D_REBEL			=	Ima otpornost na noz.^nIma r1/3y sansi da oslepi neprijatelja kada ga puca.
+ML_D_SWAT			=	Otporan na noz i eksplozije.
+ML_D_GERMAN_SHOOTER		=	Ima r+10%%y ostecenja sa AK-47.
+ML_D_ARMAGEDDON			=	Ima r2y dinamita.
+ML_D_TERMINATOR			=	Ima r3y dinamita.
+ML_D_KURWA			=	Ima Jet Pack i otpornost na eksplozije.
+ML_D_PRO_SOLDIER		=	Ima r1/3y sansi da ozivi posle smrti.
+ML_D_CRYSIS			=	Ima r3y rakete.
+ML_D_PRO_SHOOTER2		=	Otporan na pogotke u glavu.
+ML_D_FBI			=	Ima stit.
+ML_D_HITMAN			=	Moze da uzme oruzja sa zemlje.
+ML_D_THIEF			=	Dobija r+5000$y svake runde.
+ML_D_BAD_BOY			=	Nevdidljiv je kada cuci.
+ML_D_CRANK			=	Ima beskonacno municije.
+ML_D_KILLER			=	Otporan na noz.
+	
+ML_D_ASSASSIN			=	Ubija iz prve sa nozem i nevidljiv je na noz.^nIma poseban model noza.
+ML_D_PRO_SWAT			=	Ima r1/4y sansi za ubistvo iz prve sa M4A1.^nOtporan na noz.
+ML_D_GENERAL			=	Ima r1/5y sansi za ubistvo iz prve sa Famasom.^nIma r3y dinamita.
+ML_D_STALKER			=	Ubija iz prve sa AWP-om i ima r6y dinamita.
+ML_D_CADET			=	Ima r1/3y sansi za ubistvi iz prve sa USP-om.^nOtporan na eksplozije.
+ML_D_COMRADE_TITO		=	Ima otpornost na prva r3y metka po spawnu.^nMoze da vidi nevidljive igrace (XRay).
+ML_D_PRO_MINER			=	Ima r1/6y sansi za ubistvo iz prve sa P90.^nIma r6y mina.
+ML_D_NINJA			=	Nevidljiv kada cuci.
+ML_D_ADMIRAL			=	Ima r1/6y sansi za ubistvo iz prve sa AUG-om.^nIma r3y rakete.
+ML_D_MONSTER			=	Ima r+80%%y ostecenja sa M3 i izgleda kao neprijatelj
+	
+ML_D_HUNTER			=	Ima r1/6y sansi za ubistvo iz prve sa M4A1 i AK-47.^nPuska mu ne trza kada puca.
+ML_D_AL_CAPONE			=	Ima r1/6y sansi za ubistvo iz prve sa MAC-10.^nUbija iz prve sa nozem.^nIma otpornost na noz.
+ML_D_INDIAN			=	Ubija iz prve sa Lukom i nevidljiv je kada cuci.
+ML_D_BLADE			=	Ubija iz prve sa Katanama.^nIma r1/4y sansi za ubistvo iz prve sa Dual Elites i UMP-45.^nIma poseban model za Dual Elites.
+ML_D_VIN_DIESEL			=	Ima r1/4y sansi za ubistvo iz prve sa USP i Five-Sevenom.^nIma otpornost na prva r3y metka po spawnu.
+ML_D_JASON_STATHAM		=	Ima r1/5y sansi za ubistvo iz prve sa Samostrelom.^nDobija r+50y energije za svako ubistvo.
+ML_D_DESTROYER			=	Ima r1/6y sansi za ubistvo iz prve sa AK-47 i r6y dinamita.
+ML_D_WARIOR			=	Ima r1/5y sansi za ubistvo iz prve sa UMP-45 i ubija iz prve sa HE.^nIma Jet Pack i otpornost na noz.
+ML_D_BIN_LADEN			=	Ima r1/6y sansi za ubistvo iz prve sa Galil-om.^nIzgleda kao neprijatelj.^nIma r5y raketa.^nMoze da vidi nevidljive igrace (XRay).
+ML_D_CHOUKER			=	Ima r1/7y sansi za ubistvo iz prve sa MAC-10.^nUbija iz prve sa nozem i ima r3y dinamita.^nNevidljiv kada cuci.
+ML_D_MECHANIC			=	Ima r1/7y sansi za ubistvo iz prve sa XM1014 i r1/3y sa M3.^nIma Jet Pack i r3y mine.
+
+ML_D_IRON_MAN			=	Ima r1/12y sansi za ubistvo iz prve sa MP5 i Super Jet Pack.^nIma otpornost na prva r3y metka po spawnu.^nIma poseban izgled.
+ML_D_PRO_NINJA			=	Ubija iz prve sa Katanama i nevidljiv je kada ih drzi.^nMoze da se penje po zidovima kada drzi dugme rEy.
+ML_D_ROBIN_HOOD			=	Ubija iz prve sa Lukom i otporan je na noz.^nMoze da vidi nevidljive igrace (Xray).
+ML_D_WOLVERINE			=	Ima kandze koje izbacuje kada klikne dugme rEy.^nKada ih koristi ima manju gravitaciju i vecu brzinu.^nUbija iz prve sa kandzama.
+ML_D_DEADPOOL			=	Ima r1/8y sansi za ubistvo iz prve sa MP5.^nIma r1/4y sansi za ubistvo iz prve sa Dual Elites.^nUbija iz prve sa Katanama i Jet Pack.
+ML_D_ENGENEER			=	Ima r1/7y sansi za ubistvo iz prve sa AK-47.^nIma r2y Sentry guna (Da ih postavis klikni dugme rEy).^nIma dupli skok.
+ML_D_REVENANT			=	Ima r1/8y sansi za ubistvo iz prve sa M249.^nMoze da vidi nevidljive igrace (XRay).^nUbija iz prve sa HE.^nIma r1/6y sansi da vaskrsne posle smrti.
+ML_D_OFFICER			=	Ima r1/6y sansi za ubistvo iz prve sa TMP.^nIma r1/3y sansi da oslepi neprijatelja kada ga puca.^nIma otpornost na noz.
+ML_D_CAMPER_MAESTRO		=	Ubija iz prve sa AWP i nevidljiv je kaa cuci.
+ML_D_TELEPORTER			=	Ima r1/4y sansi da ubije iz prve sa M4A1.^nUbija iz prve sa nozem i HE.^nMoze da se teleportuje svakih r5y sekundi.
+ML_D_HERFEST			=	Kada klikne rEy pravi dosta vatrenih eksplozija oko sebe, puska mu ne trza kada puca i ima Jet Pack.
+
+ML_D_JUMPER			=	Ima Double Jump i Jet Pack.
+ML_D_GHOST			=	Ubija iz prve sa AWP i nozem.
+ML_D_DROPPER			=	Ima r1/3y sanse da natera protivnika da baci oruzje kada ga puca.
+
+ML_FREE_CLASSES 		=	y[rObicne Klasey] w klase
+ML_PREMIUM_CLASSES 		=	y[rPremium Klasey] w klase
+ML_E_PREMIUM_CLASSES 		=	y[rElite Extra Premiumy] w klase
+ML_SUPER_CLASSES 		=	y[rSuper Klasey] w klase
+ML_VIP_CLASSES 			=	y[rElite VIPy] w klase
+
+ML_NO_POWERS			=	Nemas vise moci!
+ML_WAIT_FOR			=	Moras sacekati %.2f sekundi da koristis tvoju moc ponovo!
+ML_NO_PREDATOR_MODE		=	Mozes koristiti Predator Mod tek sledece runde!
+ML_NO_MADNES			=	Mozes koristiti Bes tek sledece runde!
+ML_MADNEX_TURNED_OFF		=	Bes je istekao!
+ML_TELEPORT_AVALIABLE		=	Mozes ponovo da koristis Teleport!
+
+ML_ROCKETS			=	Rakete
+ML_MED_KITS			=	Pakovanja prve pomoci
+ML_POISON_KITS			= 	Pakovanja otrova
+ML_DYNAMITES			=	Dinamiti
+ML_MINES			=	Mine
+ML_LIGHTNINGS			=	Munje
+ML_AIR_STRIKES			=	Vazdusni napadi
+ML_FROSTINGS			=	Zamrzavanja
+ML_BURNINGS			=	Spaljivanja
+ML_MAGNETS			=	Magneti
+
+ML_MAGNETO_IS_PULLING		=	Vucete te magneto!
+
+ML_TOO_CLOSE_TO_SPAWN		=	Preblizu si baze!
+ML_MINE_DOORS			=	Ne mozes da postavljas mine blizu vrata!
+ML_MINE_NARROW			=	Ne mozes da postavljas mine blizu uskih prolaza!
+ML_CAN_NOT_DAMAGE_SPAWN_PROT	=	Ne mozes da povredis igrace koji imaju spawn zastitu!

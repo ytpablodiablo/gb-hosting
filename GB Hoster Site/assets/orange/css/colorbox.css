@@ -1,0 +1,140 @@
+/*
+    ColorBox Core Style:
+    The following CSS is consistent between example themes and should not be altered.
+*/
+#colorbox, #cboxOverlay, #cboxWrapper{position: absolute; top:0; left:0;z-index:9999;overflow:hidden; padding: 15px; margin-left: -8px; margin-top: -8px;}
+#cboxOverlay{position:fixed; width:100%; height:100%;}
+#cboxMiddleLeft, #cboxBottomLeft{clear:left;}
+#cboxContent{position:relative;}
+#cboxLoadedContent{overflow:auto;}
+#cboxTitle{margin:0;}
+#cboxLoadingOverlay, #cboxLoadingGraphic{position:absolute; top:0; left:0; width:100%; height:100%;}
+#cboxPrevious, #cboxNext, #cboxClose, #cboxSlideshow{cursor:pointer;}
+.cboxPhoto{float:left; margin:auto; border:0; display:block; max-width: none;}
+.cboxIframe{width:100%; height:100%; display:block; border:0;}
+#colorbox, #cboxContent, #cboxLoadedContent{box-sizing:content-box;}
+
+/* 
+    User Style:
+    Change the following styles to modify the appearance of ColorBox.  They are
+    ordered & tabbed in a way that represents the nesting of the generated HTML.
+*/
+#cboxOverlay{background:#000;}
+#colorbox{}
+    #cboxContent{margin-top:20px;}
+        .cboxIframe{background:#fff;}
+        #cboxError{padding:50px; border:1px solid #ccc;}
+        #cboxLoadedContent{border:8px solid rgba(0,0,0,0.6); border-radius: 10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.9);}
+		#cboxLoadedContent form{ margin-bottom: 0; }
+        #cboxTitle{top:-22px; position: absolute; left:0; color:#ccc;}
+        #cboxCurrent{position:absolute; top:-20px; right:0px; color:#ccc;}
+        #cboxSlideshow{position:absolute; top:-20px; right:90px; color:#fff;}
+        #cboxPrevious{position:absolute; top:50%; left:5px; margin-top:-32px; width:28px; height:65px; text-indent:-9999px;}
+        #cboxPrevious:hover{background-position:bottom left;}
+        #cboxNext{position:absolute; top:50%; right:5px; margin-top:-32px; width:28px; height:65px; text-indent:-9999px;}
+        #cboxNext:hover{background-position:bottom right;}
+        #cboxLoadingOverlay{background:#000;}
+        #cboxLoadingGraphic{background:url("../img/ajax-loader.gif") no-repeat center center;}
+        #cboxClose{-webkit-transition: font-size 0.2s; -moz-transition: font-size 0.2s; -o-transition: font-size 0.2s; transition: font-size 0.2s; position:absolute; top:25px; right:15px; display:block; width:20px; height:19px; font-size: 15px; text-align: center; text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.4);color: #FFF;font-weight: 400;}
+		#cboxClose:hover{font-size: 18px;}
+        #cboxClose:hover{background-position:bottom center;}
+		
+/* Ajax User-Info Popups */
+#popup {
+	z-index: 9999;
+	position: absolute;
+	display: none;
+	font-size: 10px;
+	width: 350px;
+}
+
+.modal-profil_avatar {
+	width:100px;
+	float: left;
+	overflow: hidden;
+	height: 100px;
+	text-align: center;
+}
+
+[class^="modal-"]{
+	background: #000000;
+	border: 1px solid #000000;
+}
+
+.modal-profil{
+	width: 335px;
+	height: 220px;	
+}
+
+.modal-profil td{
+	vertical-align: top;
+}
+
+.modal-profil td p{
+	color: #FFF;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 600;
+	text-shadow: 1px 1px 0 #000;
+	font-size: 11px;	
+	margin-top: 3px;
+}
+
+.modal-profil td p b{
+	color: #8a1938;
+	text-shadow: 1px 1px 0 #1c040a;
+}
+
+.modal-profil td #button{
+	width: auto;
+	padding: 4px 15px;
+	border: 0;
+	margin: 5px;
+	background: #571527; 
+	border-top: 1px solid #ad2a4e;	
+	color: #FFF;
+	text-shadow: 0 1px 0 #000;
+	font-size: 11px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 600;
+	-webkit-transition: background 0.2s ease-in;
+ 	-o-transition: background 0.2s ease-in;
+	-moz-transition: background 0.2s ease-in;
+	transition: background 0.2s ease-in;	
+	cursor: pointer;
+}
+
+.modal-profil td #button:hover{
+	width: auto;
+	padding: 4px 15px;
+	border: 0;
+	margin: 5px;
+	background: #67182e; 
+	border-top: 1px solid #ad2a4e;	
+	color: #FFF;
+	text-shadow: 0 1px 0 #000;
+	font-size: 11px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 600;
+}
+
+#avatarajax{
+	border: 4px solid #160409; 
+	border-radius: 5px; 
+	width: 85px; 
+	height: 85px;
+}
+
+#avatarajax:hover{
+	box-shadow: 0px 0px 5px #571527;
+}
+
+#okvirajax{
+	-webkit-transition: box-shadow 0.2s ease-in;
+ 	-o-transition: box-shadow 0.2s ease-in;
+	-moz-transition: box-shadow 0.2s ease-in;
+	transition: box-shadow 0.2s ease-in;		
+}
+
+#okvirajax:hover{
+	box-shadow: 0px 0px 5px #000;
+}

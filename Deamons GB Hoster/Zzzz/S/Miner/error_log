@@ -1,0 +1,3 @@
+[03-Jul-2019 14:14:27 Europe/Belgrade] PHP Notice:  Undefined index: Id in /home/gbhoster/demons.gb-hoster.me/Miner/all.php on line 19
+[03-Jul-2019 14:14:27 Europe/Belgrade] PHP Notice:  Undefined index: Id in /home/gbhoster/demons.gb-hoster.me/Miner/all.php on line 19
+[03-Jul-2019 14:14:28 Europe/Belgrade] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'bskcodm_mining'@'localhost' (using password: YES) in /home/gbhoster/demons.gb-hoster.me/Miner/settings.php on line 20

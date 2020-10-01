@@ -1,0 +1,21 @@
+﻿[ru]
+HINT_MENU = Odgovorite :
+HINT_CHAT = !yPostovani(a)!g %s!y dobili ste odgovor!
+REPLY_CHAT = !tOdgovor : !y%s
+
+INFO_CHAT = !t%s!y - Server koristi ADMIN podrska sistem. Da prijavite citera kucajte!g /podrska
+
+MENU_BACK = Nazad
+MENU_NEXT = Dalje
+MENU_EXIT = Izlaz
+
+[en]
+HINT_MENU = Odgovorite :
+HINT_CHAT = !yPostovani(a)!g %s!y dobili ste odgovor!
+REPLY_CHAT = !tOdgovor : !y%s
+
+INFO_CHAT = !t[TITAN Server] !nDa prijavite citera kucajte!g /podrska
+
+MENU_BACK = Nazad
+MENU_NEXT = Dalje
+MENU_EXIT = Izlaz

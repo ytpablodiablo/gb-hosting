@@ -1,0 +1,10 @@
+[{Glavna Parvila SERVERA !!!
+1. Zabranjeno korišćenje bilo koje vrste cheat-a/hack-a.
+2. Zabranjeno je moljenje za iteme.
+3. Svaki igrač je odgovoran za svoj nalog.
+4. Zabranjeno je krasti od drugih igrača.
+5. Zabranjeno je uništavanje tuđih građevina i spawn-a.
+6. Sve eksplozije koje napravite dužni ste da nadoknadite štetu koje su izazvale.
+7. Zabranjeno je uništavanje okoline i pravljenje glupih rupa.
+ }
+]
